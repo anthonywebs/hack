@@ -5436,8 +5436,8 @@
     "desc": "THE LOVE PHILADELPHIA PA",
     "amount": -116.4,
     "category": "Food",
-    "lat": 39.95137208,
-    "lng": -75.17076554
+    "lat": 39.950643027107844,
+    "lng": -75.17090822044909
   },
   {
     "filter": 0.1,
@@ -5595,7 +5595,7 @@
     "date": "2025-05-19",
     "desc": "TOUS LES JOURS - HANNAM LOS ANGELES CA",
     "amount": -36,
-    "category": "Grocery",
+    "category": "Food",
     "lat": 34.05244098,
     "lng": -118.2931772
   },
@@ -5665,7 +5665,7 @@
     "date": "2025-05-20",
     "desc": "URTH CAFFE 005 - DOWNT 213-2298925 CA",
     "amount": -35.86,
-    "category": "Grocery",
+    "category": "Food",
     "lat": 34.04652328,
     "lng": -118.2338359
   },
@@ -5825,7 +5825,7 @@
     "date": "2025-06-07",
     "desc": "PHILA MAAT ZIP ELKINS PARK PA",
     "amount": -17.98,
-    "category": "Grocery",
+    "category": "Food",
     "lat": 40.06317905,
     "lng": -75.13685908
   },
