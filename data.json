@@ -1,0 +1,5863 @@
+[
+  {
+    "filter": 5,
+    "id": 1,
+    "date": "2022-10-27",
+    "desc": "RESTO LES SAISONS DE COREMONTREAL QC",
+    "amount": -14.64,
+    "category": "Food",
+    "lat": 45.49586357,
+    "lng": -73.57490532
+  },
+  {
+    "filter": 5,
+    "id": 2,
+    "date": "2022-10-27",
+    "desc": "MARCH… NEWON MONTREAL QC",
+    "amount": -11.2,
+    "category": "Shop",
+    "lat": 45.49675911,
+    "lng": -73.57799065
+  },
+  {
+    "filter": 5,
+    "id": 3,
+    "date": "2022-10-28",
+    "desc": "L'OEUFRIER DE LA MONTAG MONTREAL QC",
+    "amount": -2.45,
+    "category": "Food",
+    "lat": 45.49803289,
+    "lng": -73.57426721
+  },
+  {
+    "filter": 5,
+    "id": 4,
+    "date": "2022-10-28",
+    "desc": "ROSA RESTAURANT MONTREAL QC",
+    "amount": -20.46,
+    "category": "Food",
+    "lat": 45.54966244,
+    "lng": -73.57442133
+  },
+  {
+    "filter": 5,
+    "id": 5,
+    "date": "2022-10-28",
+    "desc": "APPLE STORE #R248 MONTREAL QC",
+    "amount": -21.28,
+    "category": "Shop",
+    "lat": 45.49780739,
+    "lng": -73.57568062
+  },
+  {
+    "filter": 5,
+    "id": 6,
+    "date": "2022-10-28",
+    "desc": "COOP EMPREINTE MONTREAL QC",
+    "amount": -35.75,
+    "category": "Shop",
+    "lat": 45.5064798,
+    "lng": -73.55290839
+  },
+  {
+    "filter": 5,
+    "id": 7,
+    "date": "2022-10-28",
+    "desc": "DEPANNEUR BISHOP MONTREAL QC",
+    "amount": -14.79,
+    "category": "Shop",
+    "lat": 45.49579255,
+    "lng": -73.5796348
+  },
+  {
+    "filter": 5,
+    "id": 8,
+    "date": "2022-10-28",
+    "desc": "DEPANNEUR NOORI MONTREAL QC",
+    "amount": -4.25,
+    "category": "Shop",
+    "lat": 45.49693987,
+    "lng": -73.57458488
+  },
+  {
+    "filter": 5,
+    "id": 9,
+    "date": "2022-10-28",
+    "desc": "PHARMAPRIX #1937 MONTREAL QC",
+    "amount": -22.56,
+    "category": "Shop",
+    "lat": 45.49594355,
+    "lng": -73.57727433
+  },
+  {
+    "filter": 5,
+    "id": 10,
+    "date": "2022-10-29",
+    "desc": "ROSA RESTAURANT MONTREAL QC",
+    "amount": -19.13,
+    "category": "Food",
+    "lat": 45.54966244,
+    "lng": -73.57442133
+  },
+  {
+    "filter": 5,
+    "id": 11,
+    "date": "2022-10-29",
+    "desc": "KURIOSITY MONTREAL QC",
+    "amount": -27.25,
+    "category": "Shop",
+    "lat": 45.50588366,
+    "lng": -73.55577156
+  },
+  {
+    "filter": 5,
+    "id": 12,
+    "date": "2022-10-31",
+    "desc": "BAWARCHI INDIAN CUISINE MONTREAL QC",
+    "amount": -21.5,
+    "category": "Food",
+    "lat": 45.49650045,
+    "lng": -73.57553232
+  },
+  {
+    "filter": 5,
+    "id": 13,
+    "date": "2022-10-31",
+    "desc": "KINTON RAMEN MONTREAL QC",
+    "amount": -5.79,
+    "category": "Food",
+    "lat": 45.50395145,
+    "lng": -73.56814832
+  },
+  {
+    "filter": 5,
+    "id": 14,
+    "date": "2022-10-31",
+    "desc": "LE COCHON DINGUE (LEBOURGQUEBEC QC",
+    "amount": -84.93,
+    "category": "Food",
+    "lat": 46.8373437,
+    "lng": -71.29972412
+  },
+  {
+    "filter": 5,
+    "id": 15,
+    "date": "2022-10-31",
+    "desc": "AGENCE DE MOBILITE DURABLMONTREAL QC",
+    "amount": -1.48,
+    "category": "Shop",
+    "lat": 45.50006212,
+    "lng": -73.57734682
+  },
+  {
+    "filter": 5,
+    "id": 16,
+    "date": "2022-11-01",
+    "desc": "BOUTIQUE POT EN CIEL QUEBEC QC",
+    "amount": -66.32,
+    "category": "Food",
+    "lat": 46.81259984,
+    "lng": -71.20352845
+  },
+  {
+    "filter": 5,
+    "id": 17,
+    "date": "2022-11-01",
+    "desc": "BUFFET DE L ANTIQUAIRE QUEBEC QC",
+    "amount": -24.79,
+    "category": "Food",
+    "lat": 46.81651015,
+    "lng": -71.20449724
+  },
+  {
+    "filter": 5,
+    "id": 18,
+    "date": "2022-11-01",
+    "desc": "Pho Tonkinoise QUEBEC QC",
+    "amount": -26.52,
+    "category": "Food",
+    "lat": 46.78568706,
+    "lng": -71.28244883
+  },
+  {
+    "filter": 5,
+    "id": 19,
+    "date": "2022-11-01",
+    "desc": "SECOND CUP 9295 QUEBEC QC",
+    "amount": -13.5,
+    "category": "Food",
+    "lat": 46.76472131,
+    "lng": -71.31662814
+  },
+  {
+    "filter": 5,
+    "id": 20,
+    "date": "2022-11-01",
+    "desc": "MARCHE INNOVATION 265 QUEBEC QC",
+    "amount": -14.73,
+    "category": "Grocery",
+    "lat": 46.786906,
+    "lng": -71.28226071
+  },
+  {
+    "filter": 5,
+    "id": 21,
+    "date": "2022-11-01",
+    "desc": "BOUTIQUE DU LYS QUEBEC QC",
+    "amount": -5.1,
+    "category": "Shop",
+    "lat": 46.8127836,
+    "lng": -71.20263811
+  },
+  {
+    "filter": 5,
+    "id": 22,
+    "date": "2022-11-02",
+    "desc": "CHOCOLATERIE DE L ILE SAINTE-PETRONQC",
+    "amount": -12.68,
+    "category": "Shop",
+    "lat": 46.8501192,
+    "lng": -71.14039893
+  },
+  {
+    "filter": 5,
+    "id": 23,
+    "date": "2022-11-02",
+    "desc": "CHOCOLATERIE DE L ILE SAINTE-PETRONQC",
+    "amount": -9.92,
+    "category": "Shop",
+    "lat": 46.8501192,
+    "lng": -71.14039893
+  },
+  {
+    "filter": 5,
+    "id": 24,
+    "date": "2022-11-02",
+    "desc": "SPAQ / HOTEL DE VILLE DE QUEBEC QC",
+    "amount": -12.79,
+    "category": "Shop",
+    "lat": 46.81464556,
+    "lng": -71.20862289
+  },
+  {
+    "filter": 5,
+    "id": 25,
+    "date": "2022-11-03",
+    "desc": "LA PIZZ PLACE ROYALE QUEBEC QC",
+    "amount": -79.68,
+    "category": "Food",
+    "lat": 46.81354503,
+    "lng": -71.20272209
+  },
+  {
+    "filter": 5,
+    "id": 26,
+    "date": "2022-11-03",
+    "desc": "LE CHATEAU BONNE ENTENTE QUEBEC QC",
+    "amount": -48.39,
+    "category": "Food",
+    "lat": 46.76898056,
+    "lng": -71.32462136
+  },
+  {
+    "filter": 5,
+    "id": 27,
+    "date": "2022-11-03",
+    "desc": "SECOND CUP 9295 QUEBEC QC",
+    "amount": -23.97,
+    "category": "Food",
+    "lat": 46.76472131,
+    "lng": -71.31662814
+  },
+  {
+    "filter": 5,
+    "id": 28,
+    "date": "2022-11-04",
+    "desc": "RYU ADM2 DORVAL QC",
+    "amount": -34.42,
+    "category": "Food",
+    "lat": 45.45579679,
+    "lng": -73.75404542
+  },
+  {
+    "filter": 5,
+    "id": 29,
+    "date": "2022-11-04",
+    "desc": "SHELL 3885 COTE VERTU ST LAURENT QC",
+    "amount": -57.09,
+    "category": "Gas",
+    "lat": 45.49385848,
+    "lng": -73.71093495
+  },
+  {
+    "filter": 5,
+    "id": 30,
+    "date": "2023-11-07",
+    "desc": "BOP & GOGI #1 CENTENNIAL CO",
+    "amount": -36.23,
+    "category": "Food",
+    "lat": 39.5938455,
+    "lng": -104.865691
+  },
+  {
+    "filter": 5,
+    "id": 31,
+    "date": "2023-11-07",
+    "desc": "TARGET 00028209 DENVER CO",
+    "amount": -17.06,
+    "category": "Shop",
+    "lat": 39.78348552,
+    "lng": -104.8955048
+  },
+  {
+    "filter": 5,
+    "id": 32,
+    "date": "2023-11-08",
+    "desc": "Daily Bread Cafe LLC Glenwood SpriCO",
+    "amount": -46.4,
+    "category": "Food",
+    "lat": 39.5471203,
+    "lng": -107.3250847
+  },
+  {
+    "filter": 5,
+    "id": 33,
+    "date": "2023-11-08",
+    "desc": "CIRCLE K # 40633 FRISCO CO",
+    "amount": -32.87,
+    "category": "Gas",
+    "lat": 39.59068944,
+    "lng": -106.09605
+  },
+  {
+    "filter": 5,
+    "id": 34,
+    "date": "2023-11-08",
+    "desc": "FSP*HANGING LAKE 970-945-7529 CO",
+    "amount": -20,
+    "category": "Shop",
+    "lat": 39.60151483,
+    "lng": -107.1918192
+  },
+  {
+    "filter": 5,
+    "id": 35,
+    "date": "2023-11-08",
+    "desc": "LS ESTES VILLAGE 304-6577410 CO",
+    "amount": -10.86,
+    "category": "Shop",
+    "lat": 40.37616848,
+    "lng": -105.52378
+  },
+  {
+    "filter": 5,
+    "id": 36,
+    "date": "2023-11-09",
+    "desc": "TST* THE ROCK INN MOUNTAIESTES PARK CO",
+    "amount": -87.6,
+    "category": "Food",
+    "lat": 40.36185217,
+    "lng": -105.5537046
+  },
+  {
+    "filter": 5,
+    "id": 37,
+    "date": "2023-11-09",
+    "desc": "HMART-AURORA AURORA CO",
+    "amount": -59.15,
+    "category": "Grocery",
+    "lat": 39.66633735,
+    "lng": -104.8634185
+  },
+  {
+    "filter": 5,
+    "id": 38,
+    "date": "2023-11-09",
+    "desc": "CIRCLE K # 40633 FRISCO CO",
+    "amount": -3.66,
+    "category": "Shop",
+    "lat": 39.59068944,
+    "lng": -106.09605
+  },
+  {
+    "filter": 5,
+    "id": 39,
+    "date": "2023-11-09",
+    "desc": "REI #235 GLENNWOOD SPR GLENWOOD SPRICO",
+    "amount": -206.34,
+    "category": "Shop",
+    "lat": 39.51908495,
+    "lng": -107.317707
+  },
+  {
+    "filter": 5,
+    "id": 40,
+    "date": "2023-11-09",
+    "desc": "ROCKY MOUNTAIN NATIONAL ESTES PARK CO",
+    "amount": -30,
+    "category": "Shop",
+    "lat": 40.36548469,
+    "lng": -105.6736549
+  },
+  {
+    "filter": 5,
+    "id": 41,
+    "date": "2023-11-10",
+    "desc": "TST* Seoul Korean BBQ - AAurora CO",
+    "amount": -42.88,
+    "category": "Food",
+    "lat": 39.67896258,
+    "lng": -104.8651156
+  },
+  {
+    "filter": 5,
+    "id": 42,
+    "date": "2023-11-10",
+    "desc": "WAY FINDER ESTES PARK CO",
+    "amount": -58.45,
+    "category": "Food",
+    "lat": 40.36353912,
+    "lng": -105.5432685
+  },
+  {
+    "filter": 5,
+    "id": 43,
+    "date": "2023-11-10",
+    "desc": "REI #44 BOULDER BOULDER CO",
+    "amount": 206.34,
+    "category": "Shop",
+    "lat": 40.01944521,
+    "lng": -105.2598795
+  },
+  {
+    "filter": 5,
+    "id": 44,
+    "date": "2023-11-11",
+    "desc": "BOP & GOGI #1 CENTENNIAL CO",
+    "amount": -15.96,
+    "category": "Food",
+    "lat": 39.5938455,
+    "lng": -104.865691
+  },
+  {
+    "filter": 5,
+    "id": 45,
+    "date": "2023-11-11",
+    "desc": "Coors Brewing Co via A Golden CO",
+    "amount": -11.49,
+    "category": "Shop",
+    "lat": 39.7557901,
+    "lng": -105.2169589
+  },
+  {
+    "filter": 5,
+    "id": 46,
+    "date": "2023-11-13",
+    "desc": "TST* Tofu Story - Aurora Aurora CO",
+    "amount": -79.16,
+    "category": "Food",
+    "lat": 39.67920806,
+    "lng": -104.86509
+  },
+  {
+    "filter": 5,
+    "id": 47,
+    "date": "2023-11-13",
+    "desc": "SHELL OIL 57444271001 AURORA CO",
+    "amount": -35.23,
+    "category": "Gas",
+    "lat": 39.72843532,
+    "lng": -104.8268112
+  },
+  {
+    "filter": 5,
+    "id": 48,
+    "date": "2023-11-13",
+    "desc": "SQ *CHRISTMAS IN MANITOU Manitou SprinCO",
+    "amount": -35.96,
+    "category": "Shop",
+    "lat": 38.85751863,
+    "lng": -104.9153472
+  },
+  {
+    "filter": 5,
+    "id": 49,
+    "date": "2023-11-13",
+    "desc": "TARGET 00028209 DENVER CO",
+    "amount": 8.15,
+    "category": "Shop",
+    "lat": 39.78348552,
+    "lng": -104.8955048
+  },
+  {
+    "filter": 5,
+    "id": 50,
+    "date": "2023-11-14",
+    "desc": "IN-N-OUT LONE TREE LONE TREE CO",
+    "amount": -3.94,
+    "category": "Food",
+    "lat": 39.5655276,
+    "lng": -104.8818936
+  },
+  {
+    "filter": 5,
+    "id": 51,
+    "date": "2023-11-14",
+    "desc": "CITY OF MANITOU SPRING MANITOU SPRINCO",
+    "amount": -4,
+    "category": "Shop",
+    "lat": 38.85745697,
+    "lng": -104.9127446
+  },
+  {
+    "filter": 5,
+    "id": 52,
+    "date": "2023-11-22",
+    "desc": "FRONTIER AI DEEQNT 720-3744390 CO",
+    "amount": -207.92,
+    "category": "Shop",
+    "lat": 39.87624638,
+    "lng": -104.7427376
+  },
+  {
+    "filter": 1,
+    "id": 53,
+    "date": "2024-01-02",
+    "desc": "TST* SABRINAS CAFE- CALL Philadelphia PA",
+    "amount": -35.13,
+    "category": "Food",
+    "lat": 39.94613217,
+    "lng": -75.17745394
+  },
+  {
+    "filter": 1,
+    "id": 54,
+    "date": "2024-01-04",
+    "desc": "WWW.SWEETGREEN.COM HTTPSWWW.SWEECA",
+    "amount": -9.26,
+    "category": "Food",
+    "lat": 40.08855671,
+    "lng": -75.38967659
+  },
+  {
+    "filter": 1,
+    "id": 55,
+    "date": "2024-01-05",
+    "desc": "SWEETGREEN KING OF PRU KING OF PRUSSPA",
+    "amount": -14.26,
+    "category": "Food",
+    "lat": 40.08855671,
+    "lng": -75.38967659
+  },
+  {
+    "filter": 1,
+    "id": 56,
+    "date": "2024-01-06",
+    "desc": "TST* NOTHING BUNDT CAKES 215-454-2286 PA",
+    "amount": -50.04,
+    "category": "Food",
+    "lat": 40.00233109,
+    "lng": -75.27812516
+  },
+  {
+    "filter": 1,
+    "id": 57,
+    "date": "2024-01-08",
+    "desc": "A MANO PALMYRA NJ",
+    "amount": -100.94,
+    "category": "Food",
+    "lat": 39.96737884,
+    "lng": -75.17527691
+  },
+  {
+    "filter": 1,
+    "id": 58,
+    "date": "2024-01-09",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -14.36,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 59,
+    "date": "2024-01-11",
+    "desc": "III ILLIANO`S PIZZERIA CONSHOHOCKEN PA",
+    "amount": -30.85,
+    "category": "Food",
+    "lat": 40.09361929,
+    "lng": -75.28498306
+  },
+  {
+    "filter": 1,
+    "id": 60,
+    "date": "2024-01-12",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -4.39,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 61,
+    "date": "2024-01-13",
+    "desc": "MORE FOOD COURT ELKINS PARK PA",
+    "amount": -14.83,
+    "category": "Food",
+    "lat": 40.06306268,
+    "lng": -75.13688369
+  },
+  {
+    "filter": 1,
+    "id": 62,
+    "date": "2024-01-15",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -8.78,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 63,
+    "date": "2024-01-16",
+    "desc": "THE HOME DEPOT #4106 CONSHOHOCKEN PA",
+    "amount": -8.98,
+    "category": "Shop",
+    "lat": 40.09745252,
+    "lng": -75.30366788
+  },
+  {
+    "filter": 1,
+    "id": 64,
+    "date": "2024-01-17",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.49,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 65,
+    "date": "2024-01-19",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -11.53,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 66,
+    "date": "2024-01-20",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -5.18,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 67,
+    "date": "2024-01-22",
+    "desc": "III ILLIANO`S PIZZERIA CONSHOHOCKEN PA",
+    "amount": -26.44,
+    "category": "Food",
+    "lat": 40.09361929,
+    "lng": -75.28498306
+  },
+  {
+    "filter": 1,
+    "id": 68,
+    "date": "2024-01-22",
+    "desc": "RALPHS #0294 LOS ANGELES CA",
+    "amount": -8.49,
+    "category": "Grocery",
+    "lat": 34.03206753,
+    "lng": -118.2907712
+  },
+  {
+    "filter": 1,
+    "id": 69,
+    "date": "2024-01-22",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -14.55,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 70,
+    "date": "2024-01-24",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -8.78,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 71,
+    "date": "2024-01-24",
+    "desc": "THE HOME DEPOT #4106 CONSHOHOCKEN PA",
+    "amount": -131.44,
+    "category": "Shop",
+    "lat": 40.09745252,
+    "lng": -75.30366788
+  },
+  {
+    "filter": 1,
+    "id": 72,
+    "date": "2024-01-24",
+    "desc": "THE HOME DEPOT #4106 CONSHOHOCKEN PA",
+    "amount": 8.98,
+    "category": "Shop",
+    "lat": 40.09745252,
+    "lng": -75.30366788
+  },
+  {
+    "filter": 1,
+    "id": 73,
+    "date": "2024-01-24",
+    "desc": "THE HOME DEPOT #4106 CONSHOHOCKEN PA",
+    "amount": 131.44,
+    "category": "Shop",
+    "lat": 40.09745252,
+    "lng": -75.30366788
+  },
+  {
+    "filter": 1,
+    "id": 74,
+    "date": "2024-01-25",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -5.58,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 75,
+    "date": "2024-01-25",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -1.34,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 76,
+    "date": "2024-01-26",
+    "desc": "LS RUH ROS PET SHOPPE 610-8978406 PA",
+    "amount": -15.89,
+    "category": "shop",
+    "lat": 40.09356571,
+    "lng": -75.28487327
+  },
+  {
+    "filter": 1,
+    "id": 77,
+    "date": "2024-01-27",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -6.9,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 78,
+    "date": "2024-01-29",
+    "desc": "TST* SABRINAS CAFE WYNNE Wynnewood PA",
+    "amount": -44.42,
+    "category": "Food",
+    "lat": 40.0028828,
+    "lng": -75.27107563
+  },
+  {
+    "filter": 1,
+    "id": 79,
+    "date": "2024-01-29",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -23.07,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 80,
+    "date": "2024-02-01",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -16.37,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 81,
+    "date": "2024-02-02",
+    "desc": "GIANT 6481 CONSHOHOCKEN PA",
+    "amount": -32.5,
+    "category": "Grocery",
+    "lat": 40.09475537,
+    "lng": -75.28574106
+  },
+  {
+    "filter": 1,
+    "id": 82,
+    "date": "2024-02-03",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -12.97,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 83,
+    "date": "2024-02-03",
+    "desc": "WEIS MARKETS 231 CONSHOHOCKEN PA",
+    "amount": -20.81,
+    "category": "Grocery",
+    "lat": 40.09560841,
+    "lng": -75.28811214
+  },
+  {
+    "filter": 1,
+    "id": 84,
+    "date": "2024-02-03",
+    "desc": "ARHAUS FURNITURE 010 E 440-439-7700 OH",
+    "amount": -37.21,
+    "category": "Shop",
+    "lat": 40.0900451,
+    "lng": -75.38551389
+  },
+  {
+    "filter": 1,
+    "id": 85,
+    "date": "2024-02-05",
+    "desc": "TARGET 00012690 PLYMOUTH MEETPA",
+    "amount": 42.38,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 86,
+    "date": "2024-02-05",
+    "desc": "WINE AND SPIRITS 4657 PLYMOUTH MEETPA",
+    "amount": -14.4,
+    "category": "Grocery",
+    "lat": 40.10865566,
+    "lng": -75.29238381
+  },
+  {
+    "filter": 1,
+    "id": 87,
+    "date": "2024-02-06",
+    "desc": "CAKE PHILADELPHIA PA",
+    "amount": -44.44,
+    "category": "Food",
+    "lat": 40.07646695,
+    "lng": -75.206271
+  },
+  {
+    "filter": 1,
+    "id": 88,
+    "date": "2024-02-07",
+    "desc": "DRAGON & PHOENIX EXPRESS CONSHOHOCKEN PA",
+    "amount": -13.83,
+    "category": "Food",
+    "lat": 40.07759903,
+    "lng": -75.30232
+  },
+  {
+    "filter": 1,
+    "id": 89,
+    "date": "2024-02-09",
+    "desc": "GIANT 6481 CONSHOHOCKEN PA",
+    "amount": -18.49,
+    "category": "Grocery",
+    "lat": 40.09475537,
+    "lng": -75.28574106
+  },
+  {
+    "filter": 1,
+    "id": 90,
+    "date": "2024-02-09",
+    "desc": "RALPHS #0294 LOS ANGELES CA",
+    "amount": -7.99,
+    "category": "Grocery",
+    "lat": 34.03206753,
+    "lng": -118.2907712
+  },
+  {
+    "filter": 1,
+    "id": 91,
+    "date": "2024-02-09",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -14.36,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 92,
+    "date": "2024-02-12",
+    "desc": "SEORABOL KOREAN RESTAURANPHILADELPHIA PA",
+    "amount": -50.01,
+    "category": "Food",
+    "lat": 40.04084323,
+    "lng": -75.12331873
+  },
+  {
+    "filter": 1,
+    "id": 93,
+    "date": "2024-02-12",
+    "desc": "H MART ECC LLC LOS ANGELES CA",
+    "amount": -17.54,
+    "category": "Grocery",
+    "lat": 34.05555038,
+    "lng": -118.3086106
+  },
+  {
+    "filter": 1,
+    "id": 94,
+    "date": "2024-02-12",
+    "desc": "TST* PARIS BAGUETTE - H-MPHILADELPHIA PA",
+    "amount": -6.97,
+    "category": "Grocery",
+    "lat": 39.95425535,
+    "lng": -75.16955517
+  },
+  {
+    "filter": 1,
+    "id": 95,
+    "date": "2024-02-14",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -5.58,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 96,
+    "date": "2024-02-14",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -17.97,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 97,
+    "date": "2024-02-16",
+    "desc": "DUBU RESTAURANT ELKINS PARK PA",
+    "amount": -14.83,
+    "category": "Food",
+    "lat": 40.06325391,
+    "lng": -75.13767696
+  },
+  {
+    "filter": 1,
+    "id": 98,
+    "date": "2024-02-16",
+    "desc": "MORE FOOD COURT ELKINS PARK PA",
+    "amount": -14.83,
+    "category": "Food",
+    "lat": 40.06306268,
+    "lng": -75.13688369
+  },
+  {
+    "filter": 1,
+    "id": 99,
+    "date": "2024-02-16",
+    "desc": "TST* GUPPY'S GOOD TIMES 610-828-0300 PA",
+    "amount": -50.88,
+    "category": "Food",
+    "lat": 40.07487293,
+    "lng": -75.30973209
+  },
+  {
+    "filter": 1,
+    "id": 100,
+    "date": "2024-02-16",
+    "desc": "GA YEON ELKINS PARK PA",
+    "amount": -14,
+    "category": "Grocery",
+    "lat": 40.06317905,
+    "lng": -75.13685908
+  },
+  {
+    "filter": 1,
+    "id": 101,
+    "date": "2024-02-16",
+    "desc": "PHILA MAAT ZIP ELKINS PARK PA",
+    "amount": -32.25,
+    "category": "Grocery",
+    "lat": 40.06317905,
+    "lng": -75.13685908
+  },
+  {
+    "filter": 1,
+    "id": 102,
+    "date": "2024-02-16",
+    "desc": "TST* PARIS BAGUETTE - H MELKINS PARK PA",
+    "amount": -8.27,
+    "category": "Grocery",
+    "lat": 40.06317905,
+    "lng": -75.13685908
+  },
+  {
+    "filter": 1,
+    "id": 103,
+    "date": "2024-02-16",
+    "desc": "LONGWOOD GARDENS INC 610-3885460 PA",
+    "amount": -95,
+    "category": "Shop",
+    "lat": 39.87370108,
+    "lng": -75.6733895
+  },
+  {
+    "filter": 1,
+    "id": 104,
+    "date": "2024-02-19",
+    "desc": "GIANT 6481 CONSHOHOCKEN PA",
+    "amount": -29.96,
+    "category": "Grocery",
+    "lat": 40.09475537,
+    "lng": -75.28574106
+  },
+  {
+    "filter": 1,
+    "id": 105,
+    "date": "2024-02-19",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -10.96,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 106,
+    "date": "2024-02-19",
+    "desc": "WPY*ODB CONSHOHOCKEN PA",
+    "amount": -13.72,
+    "category": "Grocery",
+    "lat": 40.07847764,
+    "lng": -75.30063344
+  },
+  {
+    "filter": 1,
+    "id": 107,
+    "date": "2024-02-23",
+    "desc": "GIANT 6481 CONSHOHOCKEN PA",
+    "amount": -20.73,
+    "category": "Grocery",
+    "lat": 40.09475537,
+    "lng": -75.28574106
+  },
+  {
+    "filter": 1,
+    "id": 108,
+    "date": "2024-02-24",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -21.95,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 109,
+    "date": "2024-02-26",
+    "desc": "TST* THAI BY TRIO Los Angeles CA",
+    "amount": -27.07,
+    "category": "Food",
+    "lat": 34.02715614,
+    "lng": -118.2765088
+  },
+  {
+    "filter": 1,
+    "id": 110,
+    "date": "2024-02-26",
+    "desc": "GIANT 6481 CONSHOHOCKEN PA",
+    "amount": -12.88,
+    "category": "Grocery",
+    "lat": 40.09475537,
+    "lng": -75.28574106
+  },
+  {
+    "filter": 1,
+    "id": 111,
+    "date": "2024-02-28",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.49,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 112,
+    "date": "2024-03-01",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -9.86,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 113,
+    "date": "2024-03-02",
+    "desc": "TONY AND JOE'S PIZZA clover.com PA",
+    "amount": -22.95,
+    "category": "Food",
+    "lat": 40.07487691,
+    "lng": -75.30508931
+  },
+  {
+    "filter": 1,
+    "id": 114,
+    "date": "2024-03-04",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -8.78,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 115,
+    "date": "2024-03-05",
+    "desc": "UEP*M&M PHO MI RESTAURANTCONSHOHOCKEN PA",
+    "amount": -43.78,
+    "category": "Food",
+    "lat": 40.07586735,
+    "lng": -75.30380959
+  },
+  {
+    "filter": 1,
+    "id": 116,
+    "date": "2024-03-06",
+    "desc": "RALPHS #0294 LOS ANGELES CA",
+    "amount": -18.83,
+    "category": "Grocery",
+    "lat": 34.03206753,
+    "lng": -118.2907712
+  },
+  {
+    "filter": 1,
+    "id": 117,
+    "date": "2024-03-07",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -5.58,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 118,
+    "date": "2024-03-09",
+    "desc": "CAFE CLOVER ELKINS PARK PA",
+    "amount": -44.22,
+    "category": "Food",
+    "lat": 40.06326685,
+    "lng": -75.13757336
+  },
+  {
+    "filter": 1,
+    "id": 119,
+    "date": "2024-03-09",
+    "desc": "GIANT 6481 CONSHOHOCKEN PA",
+    "amount": -1.75,
+    "category": "Grocery",
+    "lat": 40.09475537,
+    "lng": -75.28574106
+  },
+  {
+    "filter": 1,
+    "id": 120,
+    "date": "2024-03-09",
+    "desc": "PHILA MAAT ZIP ELKINS PARK PA",
+    "amount": -37.3,
+    "category": "Grocery",
+    "lat": 40.06317905,
+    "lng": -75.13685908
+  },
+  {
+    "filter": 1,
+    "id": 121,
+    "date": "2024-03-09",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -14.16,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 122,
+    "date": "2024-03-11",
+    "desc": "10032D CAVA USC VILLAG 213-212-9838 CA",
+    "amount": -13.19,
+    "category": "Food",
+    "lat": 34.02533786,
+    "lng": -118.2845561
+  },
+  {
+    "filter": 1,
+    "id": 123,
+    "date": "2024-03-11",
+    "desc": "Aveda Online 800-6444831 NY",
+    "amount": -132.29,
+    "category": "shop",
+    "lat": 40.77911069,
+    "lng": -73.97841595
+  },
+  {
+    "filter": 1,
+    "id": 124,
+    "date": "2024-03-13",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -7.08,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 125,
+    "date": "2024-03-13",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -8.36,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 126,
+    "date": "2024-03-13",
+    "desc": "WINE AND SPIRITS 4624 KING OF PRUSSPA",
+    "amount": -33.47,
+    "category": "Grocery",
+    "lat": 40.09359171,
+    "lng": -75.36378889
+  },
+  {
+    "filter": 1,
+    "id": 127,
+    "date": "2024-03-15",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -12.28,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 128,
+    "date": "2024-03-16",
+    "desc": "TOUS LES JOURS - HAVERFORHAVERFORD PA",
+    "amount": -47.17,
+    "category": "Grocery",
+    "lat": 40.01337997,
+    "lng": -75.30084473
+  },
+  {
+    "filter": 1,
+    "id": 129,
+    "date": "2024-03-18",
+    "desc": "MING`S CHINESE RESTAURANTHATBORO PA",
+    "amount": -67.13,
+    "category": "Food",
+    "lat": 40.1751489,
+    "lng": -75.10659757
+  },
+  {
+    "filter": 1,
+    "id": 130,
+    "date": "2024-03-18",
+    "desc": "CVS/PHARMACY #03252 CONSHOHOCKEN PA",
+    "amount": -8.35,
+    "category": "Grocery",
+    "lat": 40.07862236,
+    "lng": -75.30157345
+  },
+  {
+    "filter": 1,
+    "id": 131,
+    "date": "2024-03-19",
+    "desc": "WIN WAH LU INC CONSHOHOCKEN PA",
+    "amount": -34.87,
+    "category": "Food",
+    "lat": 40.07454281,
+    "lng": -75.30623068
+  },
+  {
+    "filter": 1,
+    "id": 132,
+    "date": "2024-03-19",
+    "desc": "GIANT 6481 CONSHOHOCKEN PA",
+    "amount": -12.77,
+    "category": "Grocery",
+    "lat": 40.09475537,
+    "lng": -75.28574106
+  },
+  {
+    "filter": 1,
+    "id": 133,
+    "date": "2024-03-20",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -16.36,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 134,
+    "date": "2024-03-21",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -21.99,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 135,
+    "date": "2024-03-22",
+    "desc": "PHILA MAAT ZIP ELKINS PARK PA",
+    "amount": -17.43,
+    "category": "Grocery",
+    "lat": 40.06317905,
+    "lng": -75.13685908
+  },
+  {
+    "filter": 1,
+    "id": 136,
+    "date": "2024-03-22",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -4.99,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 137,
+    "date": "2024-03-22",
+    "desc": "TST* PARIS BAGUETTE - H MELKINS PARK PA",
+    "amount": -9.97,
+    "category": "Grocery",
+    "lat": 40.06317905,
+    "lng": -75.13685908
+  },
+  {
+    "filter": 1,
+    "id": 138,
+    "date": "2024-03-23",
+    "desc": "GIANT 6481 CONSHOHOCKEN PA",
+    "amount": -15.62,
+    "category": "Grocery",
+    "lat": 40.09475537,
+    "lng": -75.28574106
+  },
+  {
+    "filter": 1,
+    "id": 139,
+    "date": "2024-03-23",
+    "desc": "LS RUH ROS PET SHOPPE 610-8978406 PA",
+    "amount": -21.18,
+    "category": "shop",
+    "lat": 40.09356571,
+    "lng": -75.28487327
+  },
+  {
+    "filter": 1,
+    "id": 140,
+    "date": "2024-03-23",
+    "desc": "THE HOME DEPOT 4109 PHILADELPHIA PA",
+    "amount": -95.38,
+    "category": "Shop",
+    "lat": 40.03659704,
+    "lng": -75.09509585
+  },
+  {
+    "filter": 1,
+    "id": 141,
+    "date": "2024-03-25",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -15.07,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 142,
+    "date": "2024-03-27",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -29.83,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 143,
+    "date": "2024-03-29",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -8.98,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 144,
+    "date": "2024-03-30",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -9.44,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 145,
+    "date": "2024-04-01",
+    "desc": "21054 LONGWOOD GARDENS KENNETT SQUARPA",
+    "amount": -24.21,
+    "category": "Food",
+    "lat": 39.87373401,
+    "lng": -75.67341096
+  },
+  {
+    "filter": 1,
+    "id": 146,
+    "date": "2024-04-01",
+    "desc": "GIANT 6481 CONSHOHOCKEN PA",
+    "amount": -30.25,
+    "category": "Grocery",
+    "lat": 40.09475537,
+    "lng": -75.28574106
+  },
+  {
+    "filter": 1,
+    "id": 147,
+    "date": "2024-04-02",
+    "desc": "SQ *MILLER'S TWIST Philadelphia PA",
+    "amount": -6.5,
+    "category": "Food",
+    "lat": 39.95366035,
+    "lng": -75.15889025
+  },
+  {
+    "filter": 1,
+    "id": 148,
+    "date": "2024-04-02",
+    "desc": "TERRAIN #3001 CONCORDVILLE PA",
+    "amount": -25.44,
+    "category": "Food",
+    "lat": 39.88415396,
+    "lng": -75.53123218
+  },
+  {
+    "filter": 1,
+    "id": 149,
+    "date": "2024-04-02",
+    "desc": "TERRAIN #3001 CONCORDVILLE PA",
+    "amount": -10.6,
+    "category": "Shop",
+    "lat": 39.88415396,
+    "lng": -75.53123218
+  },
+  {
+    "filter": 1,
+    "id": 150,
+    "date": "2024-04-03",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -29.73,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 151,
+    "date": "2024-04-04",
+    "desc": "MORE FOOD COURT ELKINS PARK PA",
+    "amount": -14.83,
+    "category": "Food",
+    "lat": 40.06306268,
+    "lng": -75.13688369
+  },
+  {
+    "filter": 1,
+    "id": 152,
+    "date": "2024-04-05",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -18.42,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 153,
+    "date": "2024-04-08",
+    "desc": "SAN BEVERAGE CONSHOHOCKEN PA",
+    "amount": -22.79,
+    "category": "Food",
+    "lat": 40.0962371,
+    "lng": -75.28683726
+  },
+  {
+    "filter": 1,
+    "id": 154,
+    "date": "2024-04-08",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.98,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 155,
+    "date": "2024-04-09",
+    "desc": "DRAGON & PHOENIX EXPRESS CONSHOHOCKEN PA",
+    "amount": -15.73,
+    "category": "Food",
+    "lat": 40.07759903,
+    "lng": -75.30232
+  },
+  {
+    "filter": 1,
+    "id": 156,
+    "date": "2024-04-15",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.49,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 157,
+    "date": "2024-04-15",
+    "desc": "AMC 0871 PLYMOUTH MTG PLYMOUTH MEETPA",
+    "amount": -32.98,
+    "category": "Shop",
+    "lat": 40.11473682,
+    "lng": -75.27918871
+  },
+  {
+    "filter": 1,
+    "id": 158,
+    "date": "2024-04-16",
+    "desc": "THE HOME DEPOT #4106 CONSHOHOCKEN PA",
+    "amount": -66.74,
+    "category": "Shop",
+    "lat": 40.09745252,
+    "lng": -75.30366788
+  },
+  {
+    "filter": 1,
+    "id": 159,
+    "date": "2024-04-16",
+    "desc": "THE HOME DEPOT #4188 KNG OF PRUSSAPA",
+    "amount": -13.47,
+    "category": "Shop",
+    "lat": 40.08179581,
+    "lng": -75.38546314
+  },
+  {
+    "filter": 1,
+    "id": 160,
+    "date": "2024-04-17",
+    "desc": "IN-N-OUT WESTWOOD LOS ANGELES CA",
+    "amount": -4.65,
+    "category": "Food",
+    "lat": 34.06326608,
+    "lng": -118.4479616
+  },
+  {
+    "filter": 1,
+    "id": 161,
+    "date": "2024-04-17",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -22.42,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 162,
+    "date": "2024-04-18",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -27.99,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 163,
+    "date": "2024-04-19",
+    "desc": "SAIGON NOODLE KITCHEN CONSHOHOCKEN PA",
+    "amount": -32.36,
+    "category": "Food",
+    "lat": 40.0741398,
+    "lng": -75.30595221
+  },
+  {
+    "filter": 1,
+    "id": 164,
+    "date": "2024-04-19",
+    "desc": "IN *MASCIANTONIO PLUMBING610-8280428 PA",
+    "amount": -245,
+    "category": "Shop",
+    "lat": 40.08021994,
+    "lng": -75.30648846
+  },
+  {
+    "filter": 1,
+    "id": 165,
+    "date": "2024-04-20",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -4.99,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 166,
+    "date": "2024-04-20",
+    "desc": "LOWES #00757* PLYMOUTH MEETPA",
+    "amount": -21.18,
+    "category": "Shop",
+    "lat": 40.1021008,
+    "lng": -75.29471292
+  },
+  {
+    "filter": 1,
+    "id": 167,
+    "date": "2024-04-20",
+    "desc": "THE HOME DEPOT #4106 CONSHOHOCKEN PA",
+    "amount": -10.58,
+    "category": "Shop",
+    "lat": 40.09745252,
+    "lng": -75.30366788
+  },
+  {
+    "filter": 1,
+    "id": 168,
+    "date": "2024-04-20",
+    "desc": "THE HOME DEPOT #4106 CONSHOHOCKEN PA",
+    "amount": 52.98,
+    "category": "Shop",
+    "lat": 40.09745252,
+    "lng": -75.30366788
+  },
+  {
+    "filter": 1,
+    "id": 169,
+    "date": "2024-04-22",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -20.78,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 170,
+    "date": "2024-04-22",
+    "desc": "TALULA S GARDEN PHILADELPHIA PA",
+    "amount": -80.04,
+    "category": "Shop",
+    "lat": 39.94741627,
+    "lng": -75.15353469
+  },
+  {
+    "filter": 1,
+    "id": 171,
+    "date": "2024-04-24",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -8.74,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 172,
+    "date": "2024-04-26",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -11.52,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 173,
+    "date": "2024-04-27",
+    "desc": "TONY AND JOE'S PIZZA clover.com PA",
+    "amount": -31.27,
+    "category": "Food",
+    "lat": 40.07487691,
+    "lng": -75.30508931
+  },
+  {
+    "filter": 1,
+    "id": 174,
+    "date": "2024-04-27",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -24.15,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 175,
+    "date": "2024-04-29",
+    "desc": "RALPHS #0294 LOS ANGELES CA",
+    "amount": -25.48,
+    "category": "Grocery",
+    "lat": 34.03206753,
+    "lng": -118.2907712
+  },
+  {
+    "filter": 1,
+    "id": 176,
+    "date": "2024-04-30",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -15.43,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 177,
+    "date": "2024-05-01",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -19.47,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 178,
+    "date": "2024-05-01",
+    "desc": "IKEA CONSHOHOCKEN CONSHOHOCKEN PA",
+    "amount": -16.38,
+    "category": "Shop",
+    "lat": 40.09479977,
+    "lng": -75.30677928
+  },
+  {
+    "filter": 1,
+    "id": 179,
+    "date": "2024-05-01",
+    "desc": "IKEA CONSHOHOCKEN REST CONSHOHOCKEN PA",
+    "amount": -13.75,
+    "category": "Shop",
+    "lat": 40.09479977,
+    "lng": -75.30677928
+  },
+  {
+    "filter": 1,
+    "id": 180,
+    "date": "2024-05-02",
+    "desc": "THE HOME DEPOT #4106 CONSHOHOCKEN PA",
+    "amount": 10.58,
+    "category": "Shop",
+    "lat": 40.09745252,
+    "lng": -75.30366788
+  },
+  {
+    "filter": 1,
+    "id": 181,
+    "date": "2024-05-03",
+    "desc": "MORE FOOD COURT ELKINS PARK PA",
+    "amount": -15.42,
+    "category": "Food",
+    "lat": 40.06306268,
+    "lng": -75.13688369
+  },
+  {
+    "filter": 1,
+    "id": 182,
+    "date": "2024-05-03",
+    "desc": "PHILA MAAT ZIP ELKINS PARK PA",
+    "amount": -16.88,
+    "category": "Grocery",
+    "lat": 40.06317905,
+    "lng": -75.13685908
+  },
+  {
+    "filter": 1,
+    "id": 183,
+    "date": "2024-05-04",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -25.89,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 184,
+    "date": "2024-05-06",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -4.99,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 185,
+    "date": "2024-05-08",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -31.12,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 186,
+    "date": "2024-05-09",
+    "desc": "GIANT 6481 CONSHOHOCKEN PA",
+    "amount": -13.83,
+    "category": "Grocery",
+    "lat": 40.09475537,
+    "lng": -75.28574106
+  },
+  {
+    "filter": 1,
+    "id": 187,
+    "date": "2024-05-10",
+    "desc": "10098D CAVA SUBURBAN S 484-282-3242 PA",
+    "amount": -12.35,
+    "category": "Food",
+    "lat": 40.00814464,
+    "lng": -75.28867069
+  },
+  {
+    "filter": 1,
+    "id": 188,
+    "date": "2024-05-11",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -10.44,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 189,
+    "date": "2024-05-13",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -26.81,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 190,
+    "date": "2024-05-15",
+    "desc": "10032D CAVA USC VILLAG 213-212-9838 CA",
+    "amount": -13.19,
+    "category": "Food",
+    "lat": 34.02533786,
+    "lng": -118.2845561
+  },
+  {
+    "filter": 1,
+    "id": 191,
+    "date": "2024-05-15",
+    "desc": "SAIGON NOODLE KITCHEN CONSHOHOCKEN PA",
+    "amount": -34.36,
+    "category": "Food",
+    "lat": 40.0741398,
+    "lng": -75.30595221
+  },
+  {
+    "filter": 1,
+    "id": 192,
+    "date": "2024-05-15",
+    "desc": "SMART AND FINAL 456 LOS ANGELES CA",
+    "amount": -14.29,
+    "category": "Grocery",
+    "lat": 34.02822431,
+    "lng": -118.2913836
+  },
+  {
+    "filter": 1,
+    "id": 193,
+    "date": "2024-05-20",
+    "desc": "DUBU RESTAURANT ELKINS PARK PA",
+    "amount": -57.8,
+    "category": "Food",
+    "lat": 40.06325391,
+    "lng": -75.13767696
+  },
+  {
+    "filter": 1,
+    "id": 194,
+    "date": "2024-05-20",
+    "desc": "SAN BEVERAGE CONSHOHOCKEN PA",
+    "amount": -5.83,
+    "category": "Grocery",
+    "lat": 40.0962371,
+    "lng": -75.28683726
+  },
+  {
+    "filter": 1,
+    "id": 195,
+    "date": "2024-05-23",
+    "desc": "CHEESECAKE KING OF PRUSS KING OF PRUSSPA",
+    "amount": -96.99,
+    "category": "Food",
+    "lat": 40.09578002,
+    "lng": -75.38201135
+  },
+  {
+    "filter": 1,
+    "id": 196,
+    "date": "2024-05-24",
+    "desc": "TOUS LES JOURS - HAVERFORHAVERFORD PA",
+    "amount": -40.28,
+    "category": "Grocery",
+    "lat": 40.01337997,
+    "lng": -75.30084473
+  },
+  {
+    "filter": 1,
+    "id": 197,
+    "date": "2024-06-03",
+    "desc": "DUBU RESTAURANT ELKINS PARK PA",
+    "amount": -71.45,
+    "category": "Food",
+    "lat": 40.06325391,
+    "lng": -75.13767696
+  },
+  {
+    "filter": 1,
+    "id": 198,
+    "date": "2024-06-03",
+    "desc": "TST* POCHA K-BBQ Blue bell PA",
+    "amount": -59.82,
+    "category": "Food",
+    "lat": 40.1698855,
+    "lng": -75.28567161
+  },
+  {
+    "filter": 1,
+    "id": 199,
+    "date": "2024-06-03",
+    "desc": "GA YEON ELKINS PARK PA",
+    "amount": -28,
+    "category": "Grocery",
+    "lat": 40.06317905,
+    "lng": -75.13685908
+  },
+  {
+    "filter": 1,
+    "id": 200,
+    "date": "2024-06-12",
+    "desc": "DD ELLIMON 855-973-1040 CA",
+    "amount": -22.74,
+    "category": "Food",
+    "lat": 40.07354973,
+    "lng": -75.30520807
+  },
+  {
+    "filter": 1,
+    "id": 201,
+    "date": "2024-06-13",
+    "desc": "Aveda Online 800-6444831 NY",
+    "amount": -116.07,
+    "category": "shop",
+    "lat": 40.77911069,
+    "lng": -73.97841595
+  },
+  {
+    "filter": 1,
+    "id": 202,
+    "date": "2024-06-17",
+    "desc": "SQ *JEONG'S NOODLE Philadelphia PA",
+    "amount": -31.3,
+    "category": "Food",
+    "lat": 40.53043514,
+    "lng": -74.40403111
+  },
+  {
+    "filter": 1,
+    "id": 203,
+    "date": "2024-06-17",
+    "desc": "TST* PARIS BAGUETTE - H-MPHILADELPHIA PA",
+    "amount": -56.57,
+    "category": "Grocery",
+    "lat": 39.95425535,
+    "lng": -75.16955517
+  },
+  {
+    "filter": 1,
+    "id": 204,
+    "date": "2024-06-20",
+    "desc": "5GUYS 1216 ECOMM 610-825-5557 PA",
+    "amount": -27.74,
+    "category": "Food",
+    "lat": 40.09549192,
+    "lng": -75.28642595
+  },
+  {
+    "filter": 1,
+    "id": 205,
+    "date": "2024-06-24",
+    "desc": "ALTAR'D STATE #170 KING OF PRUSSPA",
+    "amount": -15.85,
+    "category": "Shop",
+    "lat": 40.13791913,
+    "lng": -75.39030934
+  },
+  {
+    "filter": 1,
+    "id": 206,
+    "date": "2024-07-01",
+    "desc": "CHIPOTLE 2177 KING OF PRUSSPA",
+    "amount": -19.3,
+    "category": "Food",
+    "lat": 40.08828328,
+    "lng": -75.39442431
+  },
+  {
+    "filter": 1,
+    "id": 207,
+    "date": "2024-07-04",
+    "desc": "SAIGON NOODLE KITCHEN CONSHOHOCKEN PA",
+    "amount": -32.36,
+    "category": "Food",
+    "lat": 40.0741398,
+    "lng": -75.30595221
+  },
+  {
+    "filter": 1,
+    "id": 208,
+    "date": "2024-07-04",
+    "desc": "YO YO HEALING TOUCH & SP BRYN MAWR PA",
+    "amount": -78,
+    "category": "Shop",
+    "lat": 40.02593576,
+    "lng": -75.3267413
+  },
+  {
+    "filter": 1,
+    "id": 209,
+    "date": "2024-07-06",
+    "desc": "DUNKIN #302013 Q35 CONSHOCHOCKENPA",
+    "amount": -6.03,
+    "category": "Food",
+    "lat": 40.09486096,
+    "lng": -75.28734397
+  },
+  {
+    "filter": 1,
+    "id": 210,
+    "date": "2024-07-06",
+    "desc": "VINEYARD VINES 65 KING OF PRU PA",
+    "amount": -118.47,
+    "category": "Shop",
+    "lat": 40.20047046,
+    "lng": -75.39321388
+  },
+  {
+    "filter": 1,
+    "id": 211,
+    "date": "2024-07-08",
+    "desc": "OLD NAVY US 5842 KING OF PRUSSPA",
+    "amount": -55.98,
+    "category": "Shop",
+    "lat": 40.09017498,
+    "lng": -75.38386128
+  },
+  {
+    "filter": 1,
+    "id": 212,
+    "date": "2024-07-08",
+    "desc": "REI #37 CONSHOHOCKEN CONSHOHOCKEN PA",
+    "amount": -165,
+    "category": "Shop",
+    "lat": 40.09674976,
+    "lng": -75.28756411
+  },
+  {
+    "filter": 1,
+    "id": 213,
+    "date": "2024-07-10",
+    "desc": "JOOSIKHOISA OASISEU SEONGYONGIN-SI SUJ",
+    "amount": -34.6,
+    "category": "Shop",
+    "lat": 37.293973,
+    "lng": 127.080077
+  },
+  {
+    "filter": 1,
+    "id": 214,
+    "date": "2024-07-10",
+    "desc": "SQ *5-TOE'S APPLIANCE SERAmbler PA",
+    "amount": -106,
+    "category": "Shop",
+    "lat": 40.08107821,
+    "lng": -75.30610898
+  },
+  {
+    "filter": 1,
+    "id": 215,
+    "date": "2024-07-12",
+    "desc": "SQ *5-TOE'S APPLIANCE SERCONSHOHOCKEN PA",
+    "amount": -312.7,
+    "category": "Shop",
+    "lat": 40.08107821,
+    "lng": -75.30610898
+  },
+  {
+    "filter": 1,
+    "id": 216,
+    "date": "2024-07-15",
+    "desc": "DUNKIN #343288 PHILADELPHIA PA",
+    "amount": -2.99,
+    "category": "Food",
+    "lat": 40.05216833,
+    "lng": -75.14072653
+  },
+  {
+    "filter": 1,
+    "id": 217,
+    "date": "2024-07-15",
+    "desc": "BEST BUY MHT 00004481 PLYMOUTH MEETPA",
+    "amount": -264.99,
+    "category": "Shop",
+    "lat": 40.10296125,
+    "lng": -75.29527856
+  },
+  {
+    "filter": 1,
+    "id": 218,
+    "date": "2024-07-15",
+    "desc": "CHAEJANGSUNGNAEGUAEUWON Yongin",
+    "amount": -80.86,
+    "category": "Shop",
+    "lat": 37.286113,
+    "lng": 127.095011
+  },
+  {
+    "filter": 1,
+    "id": 219,
+    "date": "2024-07-15",
+    "desc": "CHAEJANGSUNGNAEGUAEUWON Yongin",
+    "amount": -55.73,
+    "category": "Shop",
+    "lat": 37.291146,
+    "lng": 127.08248
+  },
+  {
+    "filter": 1,
+    "id": 220,
+    "date": "2024-07-15",
+    "desc": "DUNKIN DONUTS SEONGBOK SYONGIN-SI SUJ",
+    "amount": -14.03,
+    "category": "Shop",
+    "lat": 37.304234,
+    "lng": 127.083073
+  },
+  {
+    "filter": 1,
+    "id": 221,
+    "date": "2024-07-15",
+    "desc": "GONDLEBABJIB GYEONGGI",
+    "amount": -28.5,
+    "category": "Shop",
+    "lat": 37.294914,
+    "lng": 127.07901
+  },
+  {
+    "filter": 1,
+    "id": 222,
+    "date": "2024-07-15",
+    "desc": "ROAD RUNNER SPORTS-713 KINGOFPRUSSIAPA",
+    "amount": -144.95,
+    "category": "Shop",
+    "lat": 40.0843578,
+    "lng": -75.40465907
+  },
+  {
+    "filter": 1,
+    "id": 223,
+    "date": "2024-07-19",
+    "desc": "DAY PARK 023251YONGIN-SI SUJ",
+    "amount": -13.76,
+    "category": "Shop",
+    "lat": 37.291313,
+    "lng": 127.095583
+  },
+  {
+    "filter": 1,
+    "id": 224,
+    "date": "2024-07-19",
+    "desc": "HIGHWAYMART 8262498YONGIN-SI SUJ",
+    "amount": -14.22,
+    "category": "Shop",
+    "lat": 37.303299,
+    "lng": 127.090726
+  },
+  {
+    "filter": 1,
+    "id": 225,
+    "date": "2024-07-19",
+    "desc": "LIGIMBABbyIEUNLIM Yongin",
+    "amount": -3.98,
+    "category": "Shop",
+    "lat": 37.22919358,
+    "lng": 127.2741441
+  },
+  {
+    "filter": 1,
+    "id": 226,
+    "date": "2024-07-20",
+    "desc": "FOOD 6755272SEOUL",
+    "amount": -12,
+    "category": "Food",
+    "lat": 37.294704,
+    "lng": 127.090555
+  },
+  {
+    "filter": 1,
+    "id": 227,
+    "date": "2024-07-20",
+    "desc": "LAPO HAIR 7551403SEOUL",
+    "amount": -81.83,
+    "category": "Shop",
+    "lat": 37.30584,
+    "lng": 127.089896
+  },
+  {
+    "filter": 1,
+    "id": 228,
+    "date": "2024-07-22",
+    "desc": "BASKIN ROBBINS YONGIN SEOYONGIN-SI SUJ",
+    "amount": -7.09,
+    "category": "Food",
+    "lat": 37.51644,
+    "lng": 127.101508
+  },
+  {
+    "filter": 1,
+    "id": 229,
+    "date": "2024-07-22",
+    "desc": "Lotte world mall(VISA) Seoul",
+    "amount": -21.82,
+    "category": "Food",
+    "lat": 37.5142861,
+    "lng": 127.1048398
+  },
+  {
+    "filter": 1,
+    "id": 230,
+    "date": "2024-07-22",
+    "desc": "SUEUN ONCHEONTANG 9561377SEOUL",
+    "amount": -7.27,
+    "category": "shop",
+    "lat": 37.49582212,
+    "lng": 127.1347156
+  },
+  {
+    "filter": 1,
+    "id": 231,
+    "date": "2024-07-23",
+    "desc": "SHINSEGAE ELAENBI WINE AESEOUL",
+    "amount": -13.67,
+    "category": "shop",
+    "lat": 37.45835047,
+    "lng": 126.4490383
+  },
+  {
+    "filter": 1,
+    "id": 232,
+    "date": "2024-07-23",
+    "desc": "T-MONEY PRIVATE TAXI (K)1SEOUL",
+    "amount": -33.49,
+    "category": "Shop",
+    "lat": 37.51142244,
+    "lng": 127.0982159
+  },
+  {
+    "filter": 1,
+    "id": 233,
+    "date": "2024-07-24",
+    "desc": "CO., LTD. SONGOK IFC SEOUL",
+    "amount": -30.38,
+    "category": "Food",
+    "lat": 37.52307,
+    "lng": 127.105053
+  },
+  {
+    "filter": 1,
+    "id": 234,
+    "date": "2024-07-26",
+    "desc": "MEDICAL COPORATION LOTTE SEONGNAM-SI B",
+    "amount": -140.3,
+    "category": "Health",
+    "lat": 37.40296844,
+    "lng": 127.1065876
+  },
+  {
+    "filter": 1,
+    "id": 235,
+    "date": "2024-07-26",
+    "desc": "MEDICAL COPORATION LOTTE SEONGNAM-SI B",
+    "amount": -86.13,
+    "category": "Health",
+    "lat": 37.40296844,
+    "lng": 127.1065876
+  },
+  {
+    "filter": 1,
+    "id": 236,
+    "date": "2024-07-26",
+    "desc": "MEDICAL COPORATION LOTTE SEONGNAM-SI B",
+    "amount": -45.3,
+    "category": "Health",
+    "lat": 37.40296844,
+    "lng": 127.1065876
+  },
+  {
+    "filter": 1,
+    "id": 237,
+    "date": "2024-07-27",
+    "desc": "LOTTEMATEU UEOLDEUTAUEOJESeoul",
+    "amount": -122.72,
+    "category": "Grocery",
+    "lat": 37.5142861,
+    "lng": 127.1048398
+  },
+  {
+    "filter": 1,
+    "id": 238,
+    "date": "2024-07-31",
+    "desc": "SUJI GAS STATION 5191798YONGIN-SI SUJ",
+    "amount": -67.9,
+    "category": "Gas",
+    "lat": 37.3335393,
+    "lng": 127.1044
+  },
+  {
+    "filter": 1,
+    "id": 239,
+    "date": "2024-07-31",
+    "desc": "MIRE EYEGLASSES 9239518YONGIN-SI SUJ",
+    "amount": -108.68,
+    "category": "shop",
+    "lat": 37.31709812,
+    "lng": 127.0681718
+  },
+  {
+    "filter": 1,
+    "id": 240,
+    "date": "2024-08-05",
+    "desc": "Lotte world mall(VISA) Seoul",
+    "amount": -70.78,
+    "category": "Shop",
+    "lat": 37.5142861,
+    "lng": 127.1048398
+  },
+  {
+    "filter": 1,
+    "id": 241,
+    "date": "2024-08-06",
+    "desc": "SULBING SEOUL",
+    "amount": -34.8,
+    "category": "Food",
+    "lat": 37.51024478,
+    "lng": 127.0842867
+  },
+  {
+    "filter": 1,
+    "id": 242,
+    "date": "2024-08-06",
+    "desc": "YOUN HOF 4019325SEOUL",
+    "amount": -23.59,
+    "category": "Grocery",
+    "lat": 37.516205,
+    "lng": 127.108044
+  },
+  {
+    "filter": 1,
+    "id": 243,
+    "date": "2024-08-08",
+    "desc": "DONGHUN YK GYEONGGI",
+    "amount": -51.7,
+    "category": "Food",
+    "lat": 37.3313466,
+    "lng": 127.249624
+  },
+  {
+    "filter": 1,
+    "id": 244,
+    "date": "2024-08-09",
+    "desc": "BUNDANGSEOULNATIONAL KYUNG GI",
+    "amount": -18.76,
+    "category": "Shop",
+    "lat": 37.3522634,
+    "lng": 127.1232416
+  },
+  {
+    "filter": 1,
+    "id": 245,
+    "date": "2024-08-10",
+    "desc": "MEDICAL COPORATION LOTTE SEONGNAM-SI B",
+    "amount": -29.15,
+    "category": "Shop",
+    "lat": 37.31865672,
+    "lng": 127.0673595
+  },
+  {
+    "filter": 1,
+    "id": 246,
+    "date": "2024-08-12",
+    "desc": "GUBOOKIHANEUWON Seoul",
+    "amount": -181.95,
+    "category": "Health",
+    "lat": 37.513093,
+    "lng": 127.099563
+  },
+  {
+    "filter": 1,
+    "id": 247,
+    "date": "2024-08-14",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -19.86,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 248,
+    "date": "2024-08-15",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -10.37,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 249,
+    "date": "2024-08-15",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -35.25,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 250,
+    "date": "2024-08-16",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -8.44,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 251,
+    "date": "2024-08-17",
+    "desc": "LOTTESYOPING(JOO)LOTTEMOLSEOUL",
+    "amount": -15.53,
+    "category": "Food",
+    "lat": 37.51176723,
+    "lng": 127.0963317
+  },
+  {
+    "filter": 1,
+    "id": 252,
+    "date": "2024-08-17",
+    "desc": "CO., LTD. OKTOKI PETROLEYONGIN-SI GIH",
+    "amount": -65.29,
+    "category": "Shop",
+    "lat": 37.298786,
+    "lng": 127.091652
+  },
+  {
+    "filter": 1,
+    "id": 253,
+    "date": "2024-08-20",
+    "desc": "BAIDEOLEIKEU 9983093SEOUL",
+    "amount": -36.42,
+    "category": "Food",
+    "lat": 37.524669,
+    "lng": 127.106011
+  },
+  {
+    "filter": 1,
+    "id": 254,
+    "date": "2024-08-20",
+    "desc": "LOTTEMATEU JEOITAPEULLESESeoul",
+    "amount": -33.38,
+    "category": "Grocery",
+    "lat": 37.5142861,
+    "lng": 127.1048398
+  },
+  {
+    "filter": 1,
+    "id": 255,
+    "date": "2024-08-20",
+    "desc": "SKINDIBEUWON GYEONGGI",
+    "amount": -109.71,
+    "category": "Health",
+    "lat": 37.31581826,
+    "lng": 127.0773035
+  },
+  {
+    "filter": 1,
+    "id": 256,
+    "date": "2024-08-21",
+    "desc": "CO LTD BONNE NOUVELLE YONGIN-SI SUJ",
+    "amount": -11.38,
+    "category": "Food",
+    "lat": 37.30526842,
+    "lng": 127.0753578
+  },
+  {
+    "filter": 1,
+    "id": 257,
+    "date": "2024-08-21",
+    "desc": "SAMSUNGPARKNAEGUAEUWON GYEONGGI",
+    "amount": -15.04,
+    "category": "Health",
+    "lat": 37.517296,
+    "lng": 127.097104
+  },
+  {
+    "filter": 1,
+    "id": 258,
+    "date": "2024-08-22",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -5.38,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 259,
+    "date": "2024-08-22",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -3.95,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 260,
+    "date": "2024-08-22",
+    "desc": "KEIGOOGANGAKANMYONWAEG GYEONGGI",
+    "amount": -188.88,
+    "category": "Health",
+    "lat": 37.35876338,
+    "lng": 127.1035087
+  },
+  {
+    "filter": 1,
+    "id": 261,
+    "date": "2024-08-22",
+    "desc": "KEIGOOGANGAKANMYONWAEG GYEONGGI",
+    "amount": -78.89,
+    "category": "Health",
+    "lat": 37.35876338,
+    "lng": 127.1035087
+  },
+  {
+    "filter": 1,
+    "id": 262,
+    "date": "2024-08-22",
+    "desc": "MIRE EYEGLASSES 9239518YONGIN-SI SUJ",
+    "amount": -110.82,
+    "category": "Health",
+    "lat": 37.31709812,
+    "lng": 127.0681718
+  },
+  {
+    "filter": 1,
+    "id": 263,
+    "date": "2024-08-23",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -44.09,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 264,
+    "date": "2024-08-23",
+    "desc": "USC RECREATIONAL SPORTS O213-7405127 CA",
+    "amount": -130,
+    "category": "Shop",
+    "lat": 40.02121184,
+    "lng": -75.65250737
+  },
+  {
+    "filter": 1,
+    "id": 265,
+    "date": "2024-08-24",
+    "desc": "LOTTESYOPING(JOO)LOTTEMOLSEOUL",
+    "amount": -150.88,
+    "category": "Food",
+    "lat": 37.51176723,
+    "lng": 127.0963317
+  },
+  {
+    "filter": 1,
+    "id": 266,
+    "date": "2024-08-24",
+    "desc": "URTH CAFFE 005 - DOWNT 213-2298925 CA",
+    "amount": -18.07,
+    "category": "Food",
+    "lat": 34.04652328,
+    "lng": -118.2338359
+  },
+  {
+    "filter": 1,
+    "id": 267,
+    "date": "2024-08-24",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -12.42,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 268,
+    "date": "2024-08-26",
+    "desc": "PALDANG 3331968SEOUL",
+    "amount": -106.73,
+    "category": "Food",
+    "lat": 37.51621376735859,
+    "lng": 127.10927147214115
+  },
+  {
+    "filter": 1,
+    "id": 269,
+    "date": "2024-08-26",
+    "desc": "SULBING SEOUL",
+    "amount": -38.77,
+    "category": "Food",
+    "lat": 37.51024478,
+    "lng": 127.0842867
+  },
+  {
+    "filter": 1,
+    "id": 270,
+    "date": "2024-08-26",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.49,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 271,
+    "date": "2024-08-26",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -16.92,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 272,
+    "date": "2024-08-26",
+    "desc": "2DODGER STADM LOS ANGELES CA",
+    "amount": -14.22,
+    "category": "Shop",
+    "lat": 34.07405521,
+    "lng": -118.2399476
+  },
+  {
+    "filter": 1,
+    "id": 273,
+    "date": "2024-08-26",
+    "desc": "YUKBINGGO Seoul",
+    "amount": -149.28,
+    "category": "Shop",
+    "lat": 37.5174348,
+    "lng": 127.148798
+  },
+  {
+    "filter": 1,
+    "id": 274,
+    "date": "2024-08-27",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -13.97,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 275,
+    "date": "2024-08-27",
+    "desc": "T-MONEY TAXI(CORP) SEOUL",
+    "amount": -21.84,
+    "category": "Shop",
+    "lat": 37.51591529,
+    "lng": 127.1055338
+  },
+  {
+    "filter": 1,
+    "id": 276,
+    "date": "2024-08-28",
+    "desc": "ATL POPEYES B 6682136 ATLANTA GA",
+    "amount": -3.66,
+    "category": "Food",
+    "lat": 33.64005725,
+    "lng": -84.43591827
+  },
+  {
+    "filter": 1,
+    "id": 277,
+    "date": "2024-08-28",
+    "desc": "SUJI GAS STATION 5191798YONGIN-SI SUJ",
+    "amount": -47.62,
+    "category": "Gas",
+    "lat": 37.3335393,
+    "lng": 127.1044
+  },
+  {
+    "filter": 1,
+    "id": 278,
+    "date": "2024-08-28",
+    "desc": "COSTCOKOREA KYUNG GI",
+    "amount": -87.44,
+    "category": "Grocery",
+    "lat": 37.25780681,
+    "lng": 127.1141996
+  },
+  {
+    "filter": 1,
+    "id": 279,
+    "date": "2024-08-28",
+    "desc": "COSTCOKOREA KYUNG GI",
+    "amount": -3.02,
+    "category": "Grocery",
+    "lat": 37.25780681,
+    "lng": 127.1141996
+  },
+  {
+    "filter": 1,
+    "id": 280,
+    "date": "2024-08-28",
+    "desc": "COSTCOKOREA KYUNG GI",
+    "amount": -2.65,
+    "category": "Grocery",
+    "lat": 37.25780681,
+    "lng": 127.1141996
+  },
+  {
+    "filter": 1,
+    "id": 281,
+    "date": "2024-08-28",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -13.92,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 282,
+    "date": "2024-08-29",
+    "desc": "CO LTD BONNE NOUVELLE YONGIN-SI SUJ",
+    "amount": -25.74,
+    "category": "Food",
+    "lat": 37.30526842,
+    "lng": 127.0753578
+  },
+  {
+    "filter": 1,
+    "id": 283,
+    "date": "2024-08-29",
+    "desc": "PEULLEITING INCHEONGONGHAIncheon",
+    "amount": -20.5,
+    "category": "Food",
+    "lat": 37.32078139,
+    "lng": 127.0633469
+  },
+  {
+    "filter": 1,
+    "id": 284,
+    "date": "2024-08-29",
+    "desc": "THE GROVE-ATL ATLANTA GA",
+    "amount": -3.66,
+    "category": "Food",
+    "lat": 33.64005725,
+    "lng": -84.43591827
+  },
+  {
+    "filter": 1,
+    "id": 285,
+    "date": "2024-08-29",
+    "desc": "HYUNDAI OILBANK CO., LTD.YONGIN-SI SUJ",
+    "amount": -26.05,
+    "category": "Gas",
+    "lat": 37.52262,
+    "lng": 127.098989
+  },
+  {
+    "filter": 1,
+    "id": 286,
+    "date": "2024-08-29",
+    "desc": "7-ELEVEN 23682 CONSHOHOCKEN PA",
+    "amount": -13.77,
+    "category": "Shop",
+    "lat": 40.07822565,
+    "lng": -75.30162047
+  },
+  {
+    "filter": 1,
+    "id": 287,
+    "date": "2024-08-30",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -21.32,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 288,
+    "date": "2024-08-31",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -4.99,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 289,
+    "date": "2024-08-31",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -17.72,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 290,
+    "date": "2024-09-02",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -13.43,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 291,
+    "date": "2024-09-03",
+    "desc": "TST*COMMUNITY GOODS Los Angeles CA",
+    "amount": -7,
+    "category": "Shop",
+    "lat": 34.01493017,
+    "lng": -118.4647217
+  },
+  {
+    "filter": 1,
+    "id": 292,
+    "date": "2024-09-04",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -18.99,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 293,
+    "date": "2024-09-04",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -8.94,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 294,
+    "date": "2024-09-05",
+    "desc": "GIANT 6481 CONSHOHOCKEN PA",
+    "amount": -34.21,
+    "category": "Grocery",
+    "lat": 40.09475537,
+    "lng": -75.28574106
+  },
+  {
+    "filter": 1,
+    "id": 295,
+    "date": "2024-09-05",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -7.65,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 296,
+    "date": "2024-09-06",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -10.44,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 297,
+    "date": "2024-09-07",
+    "desc": "MORE FOOD COURT ELKINS PARK PA",
+    "amount": -17.63,
+    "category": "Food",
+    "lat": 40.06306268,
+    "lng": -75.13688369
+  },
+  {
+    "filter": 1,
+    "id": 298,
+    "date": "2024-09-09",
+    "desc": "YEA JIP FORT LEE NJ",
+    "amount": -50.61,
+    "category": "Food",
+    "lat": 40.85204679,
+    "lng": -73.97168519
+  },
+  {
+    "filter": 1,
+    "id": 299,
+    "date": "2024-09-09",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -29.86,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 300,
+    "date": "2024-09-09",
+    "desc": "LIFE 4 CUTS VE LOS ANGELES CA",
+    "amount": -8,
+    "category": "Shop",
+    "lat": 33.95967612,
+    "lng": -118.291154
+  },
+  {
+    "filter": 1,
+    "id": 301,
+    "date": "2024-09-11",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.49,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 302,
+    "date": "2024-09-11",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -36.92,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 303,
+    "date": "2024-09-12",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -7.98,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 304,
+    "date": "2024-09-12",
+    "desc": "2DODGER STADM LOS ANGELES CA",
+    "amount": -15.6,
+    "category": "Shop",
+    "lat": 34.07405521,
+    "lng": -118.2399476
+  },
+  {
+    "filter": 1,
+    "id": 305,
+    "date": "2024-09-14",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -12.47,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 306,
+    "date": "2024-09-16",
+    "desc": "PENANG PHILADELPHIA PA",
+    "amount": -44.82,
+    "category": "Food",
+    "lat": 39.95420613,
+    "lng": -75.1560557
+  },
+  {
+    "filter": 1,
+    "id": 307,
+    "date": "2024-09-16",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -13.41,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 308,
+    "date": "2024-09-16",
+    "desc": "TRADER JOE S #618 PHILADELPHIA PA",
+    "amount": -35.78,
+    "category": "Grocery",
+    "lat": 39.95439273,
+    "lng": -75.1624037
+  },
+  {
+    "filter": 1,
+    "id": 309,
+    "date": "2024-09-16",
+    "desc": "PHILADELPHIA PARKING AUTH888-5913636 PA",
+    "amount": -39.5,
+    "category": "Shop",
+    "lat": 39.95501529,
+    "lng": -75.16963319
+  },
+  {
+    "filter": 1,
+    "id": 310,
+    "date": "2024-09-17",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -11.56,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 311,
+    "date": "2024-09-18",
+    "desc": "GIANT 6481 CONSHOHOCKEN PA",
+    "amount": -23.19,
+    "category": "Grocery",
+    "lat": 40.09475537,
+    "lng": -75.28574106
+  },
+  {
+    "filter": 1,
+    "id": 312,
+    "date": "2024-09-18",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -4.99,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 313,
+    "date": "2024-09-18",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -18.44,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 314,
+    "date": "2024-09-19",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.98,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 315,
+    "date": "2024-09-19",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -22.02,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 316,
+    "date": "2024-09-20",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -5.45,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 317,
+    "date": "2024-09-21",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.49,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 318,
+    "date": "2024-09-21",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -19.43,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 319,
+    "date": "2024-09-23",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -14.94,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 320,
+    "date": "2024-09-24",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -16,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 321,
+    "date": "2024-09-25",
+    "desc": "GIANT 6481 CONSHOHOCKEN PA",
+    "amount": -41.33,
+    "category": "Grocery",
+    "lat": 40.09475537,
+    "lng": -75.28574106
+  },
+  {
+    "filter": 1,
+    "id": 322,
+    "date": "2024-09-25",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -4.99,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 323,
+    "date": "2024-09-27",
+    "desc": "GIANT 6481 CONSHOHOCKEN PA",
+    "amount": -27.68,
+    "category": "Grocery",
+    "lat": 40.09475537,
+    "lng": -75.28574106
+  },
+  {
+    "filter": 1,
+    "id": 324,
+    "date": "2024-09-27",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -18.31,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 325,
+    "date": "2024-09-28",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -24.15,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 326,
+    "date": "2024-09-30",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -5.45,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 327,
+    "date": "2024-10-02",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -30.39,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 328,
+    "date": "2024-10-02",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -4.99,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 329,
+    "date": "2024-10-03",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -14.19,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 330,
+    "date": "2024-10-04",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -5.45,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 331,
+    "date": "2024-10-05",
+    "desc": "CVS/PHARMACY #03252 CONSHOHOCKEN PA",
+    "amount": -4.34,
+    "category": "Grocery",
+    "lat": 40.07862236,
+    "lng": -75.30157345
+  },
+  {
+    "filter": 1,
+    "id": 332,
+    "date": "2024-10-05",
+    "desc": "GIANT 6481 CONSHOHOCKEN PA",
+    "amount": -17.89,
+    "category": "Grocery",
+    "lat": 40.09475537,
+    "lng": -75.28574106
+  },
+  {
+    "filter": 1,
+    "id": 333,
+    "date": "2024-10-07",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -4.99,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 334,
+    "date": "2024-10-07",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -27.71,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 335,
+    "date": "2024-10-07",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": 13.29,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 336,
+    "date": "2024-10-08",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -18.4,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 337,
+    "date": "2024-10-09",
+    "desc": "10032 CAVA USC VILLAGE LOS ANGELES CA",
+    "amount": -16.81,
+    "category": "Food",
+    "lat": 34.02533786,
+    "lng": -118.2845561
+  },
+  {
+    "filter": 1,
+    "id": 338,
+    "date": "2024-10-09",
+    "desc": "10032 CAVA USC VILLAGE LOS ANGELES CA",
+    "amount": -13.19,
+    "category": "Food",
+    "lat": 34.02533786,
+    "lng": -118.2845561
+  },
+  {
+    "filter": 1,
+    "id": 339,
+    "date": "2024-10-09",
+    "desc": "10032 CAVA USC VILLAGE LOS ANGELES CA",
+    "amount": 16.81,
+    "category": "Food",
+    "lat": 34.02533786,
+    "lng": -118.2845561
+  },
+  {
+    "filter": 1,
+    "id": 340,
+    "date": "2024-10-09",
+    "desc": "CVS/PHARMACY #03252 CONSHOHOCKEN PA",
+    "amount": -4.76,
+    "category": "Grocery",
+    "lat": 40.07862236,
+    "lng": -75.30157345
+  },
+  {
+    "filter": 1,
+    "id": 341,
+    "date": "2024-10-09",
+    "desc": "CVS/PHARMACY #03252 CONSHOHOCKEN PA",
+    "amount": -4.26,
+    "category": "Grocery",
+    "lat": 40.07862236,
+    "lng": -75.30157345
+  },
+  {
+    "filter": 1,
+    "id": 342,
+    "date": "2024-10-09",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -14.43,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 343,
+    "date": "2024-10-11",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.49,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 344,
+    "date": "2024-10-11",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -17.41,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 345,
+    "date": "2024-10-11",
+    "desc": "WINE AND SPIRITS 4657 PLYMOUTH MEETPA",
+    "amount": -31.35,
+    "category": "Grocery",
+    "lat": 40.10865566,
+    "lng": -75.29238381
+  },
+  {
+    "filter": 1,
+    "id": 346,
+    "date": "2024-10-12",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -20.19,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 347,
+    "date": "2024-10-12",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -13.84,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 348,
+    "date": "2024-10-14",
+    "desc": "PY *NUDYS CAFE - CONSHOHOCONSHOHOCKEN PA",
+    "amount": -43.99,
+    "category": "Food",
+    "lat": 40.07439012,
+    "lng": -75.30640294
+  },
+  {
+    "filter": 1,
+    "id": 349,
+    "date": "2024-10-14",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.98,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 350,
+    "date": "2024-10-14",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -13.96,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 351,
+    "date": "2024-10-15",
+    "desc": "PANERA BREAD #203953 P CONSHOHOCKEN PA",
+    "amount": -3.79,
+    "category": "Food",
+    "lat": 40.09340448,
+    "lng": -75.28433572
+  },
+  {
+    "filter": 1,
+    "id": 352,
+    "date": "2024-10-15",
+    "desc": "GIANT 6481 CONSHOHOCKEN PA",
+    "amount": -54.58,
+    "category": "Grocery",
+    "lat": 40.09475537,
+    "lng": -75.28574106
+  },
+  {
+    "filter": 1,
+    "id": 353,
+    "date": "2024-10-16",
+    "desc": "RALPHS #0294 LOS ANGELES CA",
+    "amount": -8.08,
+    "category": "Grocery",
+    "lat": 34.03206753,
+    "lng": -118.2907712
+  },
+  {
+    "filter": 1,
+    "id": 354,
+    "date": "2024-10-16",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -12.43,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 355,
+    "date": "2024-10-17",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -5.38,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 356,
+    "date": "2024-10-17",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -10.44,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 357,
+    "date": "2024-10-18",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -15.95,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 358,
+    "date": "2024-10-19",
+    "desc": "CHUBBYS STEAKS PHILADELPHIA PA",
+    "amount": -54.67,
+    "category": "Food",
+    "lat": 40.02930528,
+    "lng": -75.20625226
+  },
+  {
+    "filter": 1,
+    "id": 359,
+    "date": "2024-10-19",
+    "desc": "SUSHI SEI EXPRESS ARDMORE PA",
+    "amount": -20.98,
+    "category": "Food",
+    "lat": 40.38064399,
+    "lng": -75.09213057
+  },
+  {
+    "filter": 1,
+    "id": 360,
+    "date": "2024-10-19",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.49,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 361,
+    "date": "2024-10-19",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -27.12,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 362,
+    "date": "2024-10-21",
+    "desc": "MORE FOOD COURT ELKINS PARK PA",
+    "amount": -34.15,
+    "category": "Food",
+    "lat": 40.06306268,
+    "lng": -75.13688369
+  },
+  {
+    "filter": 1,
+    "id": 363,
+    "date": "2024-10-21",
+    "desc": "GA YEON ELKINS PARK PA",
+    "amount": -13,
+    "category": "Grocery",
+    "lat": 40.06317905,
+    "lng": -75.13685908
+  },
+  {
+    "filter": 1,
+    "id": 364,
+    "date": "2024-10-21",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -16.44,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 365,
+    "date": "2024-10-21",
+    "desc": "LOWES #00757* PLYMOUTH MEETPA",
+    "amount": -65.78,
+    "category": "Shop",
+    "lat": 40.1021008,
+    "lng": -75.29471292
+  },
+  {
+    "filter": 1,
+    "id": 366,
+    "date": "2024-10-24",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -36,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 367,
+    "date": "2024-10-25",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -4.99,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 368,
+    "date": "2024-10-26",
+    "desc": "WINE AND SPIRITS 4657 PLYMOUTH MEETPA",
+    "amount": -26.8,
+    "category": "Grocery",
+    "lat": 40.10865566,
+    "lng": -75.29238381
+  },
+  {
+    "filter": 1,
+    "id": 369,
+    "date": "2024-10-26",
+    "desc": "LOWES #00757* PLYMOUTH MEETPA",
+    "amount": -4.22,
+    "category": "Shop",
+    "lat": 40.1021008,
+    "lng": -75.29471292
+  },
+  {
+    "filter": 1,
+    "id": 370,
+    "date": "2024-10-26",
+    "desc": "LOWES #00757* PLYMOUTH MEETPA",
+    "amount": 7.5,
+    "category": "Shop",
+    "lat": 40.1021008,
+    "lng": -75.29471292
+  },
+  {
+    "filter": 1,
+    "id": 371,
+    "date": "2024-10-28",
+    "desc": "TST*FLANIGANS BOATHOUSE Conshohocken PA",
+    "amount": -45.36,
+    "category": "Food",
+    "lat": 40.07441692,
+    "lng": -75.30558206
+  },
+  {
+    "filter": 1,
+    "id": 372,
+    "date": "2024-10-28",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -19.47,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 373,
+    "date": "2024-10-28",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -20.63,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 374,
+    "date": "2024-10-28",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -4.99,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 375,
+    "date": "2024-10-28",
+    "desc": "IKEA CONSHOHOCKEN CONSHOHOCKEN PA",
+    "amount": -100.22,
+    "category": "Shop",
+    "lat": 40.09479977,
+    "lng": -75.30677928
+  },
+  {
+    "filter": 1,
+    "id": 376,
+    "date": "2024-10-29",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -17.8,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 377,
+    "date": "2024-10-30",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -34.76,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 378,
+    "date": "2024-11-01",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -4.99,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 379,
+    "date": "2024-11-01",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -16.44,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 380,
+    "date": "2024-11-01",
+    "desc": "URI AUTO SERVICE INC NORTH WALES PA",
+    "amount": -208.49,
+    "category": "Shop",
+    "lat": 40.21616896,
+    "lng": -75.29181249
+  },
+  {
+    "filter": 1,
+    "id": 381,
+    "date": "2024-11-02",
+    "desc": "URI AUTO SERVICE INC NORTH WALES PA",
+    "amount": -87.39,
+    "category": "Shop",
+    "lat": 40.21616896,
+    "lng": -75.29181249
+  },
+  {
+    "filter": 1,
+    "id": 382,
+    "date": "2024-11-04",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.49,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 383,
+    "date": "2024-11-04",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -9.43,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 384,
+    "date": "2024-11-05",
+    "desc": "LITTLE THAI PHILADELPHIA PA",
+    "amount": -20.52,
+    "category": "Food",
+    "lat": 39.95327243,
+    "lng": -75.15896364
+  },
+  {
+    "filter": 1,
+    "id": 385,
+    "date": "2024-11-05",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -10.21,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 386,
+    "date": "2024-11-06",
+    "desc": "PY *ODB CONSHOHOCKEN PA",
+    "amount": -25.32,
+    "category": "Food",
+    "lat": 40.07839622,
+    "lng": -75.30033309
+  },
+  {
+    "filter": 1,
+    "id": 387,
+    "date": "2024-11-07",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -12.43,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 388,
+    "date": "2024-11-08",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -10.21,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 389,
+    "date": "2024-11-11",
+    "desc": "10098D CAVA SUBURBAN S 484-282-3242 PA",
+    "amount": -24.7,
+    "category": "Food",
+    "lat": 40.00814464,
+    "lng": -75.28867069
+  },
+  {
+    "filter": 1,
+    "id": 390,
+    "date": "2024-11-11",
+    "desc": "SPO*ELLIMONCONSHOHOCKEN CONSHOHOCKEN PA",
+    "amount": -22,
+    "category": "Food",
+    "lat": 40.0735251,
+    "lng": -75.30525099
+  },
+  {
+    "filter": 1,
+    "id": 391,
+    "date": "2024-11-11",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.49,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 392,
+    "date": "2024-11-11",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -18.92,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 393,
+    "date": "2024-11-11",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -16.35,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 394,
+    "date": "2024-11-13",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -9.98,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 395,
+    "date": "2024-11-14",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -27.4,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 396,
+    "date": "2024-11-14",
+    "desc": "REI #37 CONSHOHOCKEN CONSHOHOCKEN PA",
+    "amount": -265.86,
+    "category": "Shop",
+    "lat": 40.09674976,
+    "lng": -75.28756411
+  },
+  {
+    "filter": 1,
+    "id": 397,
+    "date": "2024-11-15",
+    "desc": "BAEKDOOGIUP SEOUL",
+    "amount": -71.71,
+    "category": "Food",
+    "lat": 37.521643,
+    "lng": 127.106094
+  },
+  {
+    "filter": 1,
+    "id": 398,
+    "date": "2024-11-15",
+    "desc": "MORE FOOD COURT ELKINS PARK PA",
+    "amount": -17.63,
+    "category": "Food",
+    "lat": 40.06306268,
+    "lng": -75.13688369
+  },
+  {
+    "filter": 1,
+    "id": 399,
+    "date": "2024-11-15",
+    "desc": "PHILA MAAT ZIP ELKINS PARK PA",
+    "amount": -25.97,
+    "category": "Grocery",
+    "lat": 40.06317905,
+    "lng": -75.13685908
+  },
+  {
+    "filter": 1,
+    "id": 400,
+    "date": "2024-11-16",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.98,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 401,
+    "date": "2024-11-16",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -16.41,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 402,
+    "date": "2024-11-16",
+    "desc": "THE HOME DEPOT #4109 PHILADELPHIA PA",
+    "amount": -131.44,
+    "category": "Shop",
+    "lat": 40.08179581,
+    "lng": -75.38546314
+  },
+  {
+    "filter": 1,
+    "id": 403,
+    "date": "2024-11-18",
+    "desc": "REST 8933174SEONGNAM-SI B",
+    "amount": -31.46,
+    "category": "Food",
+    "lat": 37.303713,
+    "lng": 127.092601
+  },
+  {
+    "filter": 1,
+    "id": 404,
+    "date": "2024-11-18",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.49,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 405,
+    "date": "2024-11-19",
+    "desc": "SPO*ELLIMONCONSHOHOCKEN 610-567-0120 PA",
+    "amount": -17.23,
+    "category": "Food",
+    "lat": 40.0735251,
+    "lng": -75.30525099
+  },
+  {
+    "filter": 1,
+    "id": 406,
+    "date": "2024-11-19",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -19.12,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 407,
+    "date": "2024-11-20",
+    "desc": "(JOO)BIZIEPLITEIL IDAE SEOUL",
+    "amount": -7.07,
+    "category": "Food",
+    "lat": 37.57338219,
+    "lng": 126.9881186
+  },
+  {
+    "filter": 1,
+    "id": 408,
+    "date": "2024-11-20",
+    "desc": "UKLINALAGAJEONGSIKSANGCHASEOUL",
+    "amount": -7.97,
+    "category": "Food",
+    "lat": 37.49627421,
+    "lng": 127.1215197
+  },
+  {
+    "filter": 1,
+    "id": 409,
+    "date": "2024-11-20",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.98,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 410,
+    "date": "2024-11-20",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -21.39,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 411,
+    "date": "2024-11-21",
+    "desc": "UKLINALAGAJEONGSIKSANGCHASEOUL",
+    "amount": -14.06,
+    "category": "Food",
+    "lat": 37.49627421,
+    "lng": 127.1215197
+  },
+  {
+    "filter": 1,
+    "id": 412,
+    "date": "2024-11-22",
+    "desc": "(JOO)AUEOHOMIDAISEOULBYEOSEOUL",
+    "amount": -10.3,
+    "category": "Food",
+    "lat": 37.50265935,
+    "lng": 127.1081625
+  },
+  {
+    "filter": 1,
+    "id": 413,
+    "date": "2024-11-22",
+    "desc": "(JOO)BIZIEPLITEIL IDAE SEOUL",
+    "amount": -7.71,
+    "category": "Food",
+    "lat": 37.57338219,
+    "lng": 126.9881186
+  },
+  {
+    "filter": 1,
+    "id": 414,
+    "date": "2024-11-22",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -10.44,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 415,
+    "date": "2024-11-22",
+    "desc": "WINE AND SPIRITS 4646 ARDMORE PA",
+    "amount": -33.47,
+    "category": "Grocery",
+    "lat": 40.00879739,
+    "lng": -75.29733662
+  },
+  {
+    "filter": 1,
+    "id": 416,
+    "date": "2024-11-23",
+    "desc": "(JOO)AUEOHOMIDAISEOULBYEOSEOUL",
+    "amount": -6.7,
+    "category": "Food",
+    "lat": 37.50265935,
+    "lng": 127.1081625
+  },
+  {
+    "filter": 1,
+    "id": 417,
+    "date": "2024-11-23",
+    "desc": "LONGWOOD GARDENS INC 610-3885460 PA",
+    "amount": -20,
+    "category": "shop",
+    "lat": 39.87370108,
+    "lng": -75.6733895
+  },
+  {
+    "filter": 1,
+    "id": 418,
+    "date": "2024-11-25",
+    "desc": "(JOO)AUEOHOMIDAISEOULBYEOSEOUL",
+    "amount": -9.9,
+    "category": "Food",
+    "lat": 37.50265935,
+    "lng": 127.1081625
+  },
+  {
+    "filter": 1,
+    "id": 419,
+    "date": "2024-11-25",
+    "desc": "(JOO)AUEOHOMIDAISEOULBYEOSEOUL",
+    "amount": -6.81,
+    "category": "Food",
+    "lat": 37.50265935,
+    "lng": 127.1081625
+  },
+  {
+    "filter": 1,
+    "id": 420,
+    "date": "2024-11-25",
+    "desc": "(JOO)BIZIEPLITEIL IDAE SEOUL",
+    "amount": -27.82,
+    "category": "Food",
+    "lat": 37.57338219,
+    "lng": 126.9881186
+  },
+  {
+    "filter": 1,
+    "id": 421,
+    "date": "2024-11-25",
+    "desc": "(JOO)BIZIEPLITEIL IDAE SEOUL",
+    "amount": -12.73,
+    "category": "Food",
+    "lat": 37.57338219,
+    "lng": 126.9881186
+  },
+  {
+    "filter": 1,
+    "id": 422,
+    "date": "2024-11-25",
+    "desc": "GS25 BALSANYUKJUM SEOUL",
+    "amount": -3.59,
+    "category": "Food",
+    "lat": 37.299788,
+    "lng": 127.095573
+  },
+  {
+    "filter": 1,
+    "id": 423,
+    "date": "2024-11-25",
+    "desc": "UKLINALAGAJEONGSIKSANGCHASEOUL",
+    "amount": -11.45,
+    "category": "Food",
+    "lat": 37.49627421,
+    "lng": 127.1215197
+  },
+  {
+    "filter": 1,
+    "id": 424,
+    "date": "2024-11-25",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -25.39,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 425,
+    "date": "2024-11-25",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -21.95,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 426,
+    "date": "2024-11-25",
+    "desc": "PAPERSOURCE -4380 ARDMORE PA",
+    "amount": -29.67,
+    "category": "Shop",
+    "lat": 40.00832594,
+    "lng": -75.2880994
+  },
+  {
+    "filter": 1,
+    "id": 427,
+    "date": "2024-11-26",
+    "desc": "(JOO)AUEOHOMIDAISEOULBYEOSEOUL",
+    "amount": -7.15,
+    "category": "Food",
+    "lat": 37.50265935,
+    "lng": 127.1081625
+  },
+  {
+    "filter": 1,
+    "id": 428,
+    "date": "2024-11-26",
+    "desc": "(JOO)BIZIEPLITEIL IDAE SEOUL",
+    "amount": -36.55,
+    "category": "Food",
+    "lat": 37.57338219,
+    "lng": 126.9881186
+  },
+  {
+    "filter": 1,
+    "id": 429,
+    "date": "2024-11-26",
+    "desc": "(JU)PARIKEURASANG IDAESEOSEOUL",
+    "amount": -18.1,
+    "category": "Food",
+    "lat": 37.5154,
+    "lng": 127.104685
+  },
+  {
+    "filter": 1,
+    "id": 430,
+    "date": "2024-11-27",
+    "desc": "JOOSIKHWESA WAHALINMOL GYEONGGI",
+    "amount": -5.99,
+    "category": "Food",
+    "lat": 37.297393,
+    "lng": 127.08261
+  },
+  {
+    "filter": 1,
+    "id": 431,
+    "date": "2024-11-27",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -29.9,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 432,
+    "date": "2024-11-27",
+    "desc": "LONGWOOD GARDENS INC 610-3885460 PA",
+    "amount": -20,
+    "category": "Shop",
+    "lat": 39.87370108,
+    "lng": -75.6733895
+  },
+  {
+    "filter": 1,
+    "id": 433,
+    "date": "2024-11-29",
+    "desc": "KAMAL'S MIDDLE EASTERN S PHILADELPHIA PA",
+    "amount": -7.3,
+    "category": "Food",
+    "lat": 39.95356103,
+    "lng": -75.15912662
+  },
+  {
+    "filter": 1,
+    "id": 434,
+    "date": "2024-11-29",
+    "desc": "PY *ODB CONSHOHOCKEN PA",
+    "amount": -22.55,
+    "category": "Food",
+    "lat": 40.07839622,
+    "lng": -75.30033309
+  },
+  {
+    "filter": 1,
+    "id": 435,
+    "date": "2024-11-29",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.49,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 436,
+    "date": "2024-11-29",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -24.92,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 437,
+    "date": "2024-11-29",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -18.68,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 438,
+    "date": "2024-12-02",
+    "desc": "CO LTD BONNE NOUVELLE YONGIN-SI SUJ",
+    "amount": -11.08,
+    "category": "Food",
+    "lat": 37.30526842,
+    "lng": 127.0753578
+  },
+  {
+    "filter": 1,
+    "id": 439,
+    "date": "2024-12-02",
+    "desc": "CO LTD BONNE NOUVELLE YONGIN-SI SUJ",
+    "amount": -6.84,
+    "category": "Food",
+    "lat": 37.30526842,
+    "lng": 127.0753578
+  },
+  {
+    "filter": 1,
+    "id": 440,
+    "date": "2024-12-02",
+    "desc": "DRAGON & PHOENIX EXPRESS CONSHOHOCKEN PA",
+    "amount": -15.73,
+    "category": "Food",
+    "lat": 40.07759903,
+    "lng": -75.30232
+  },
+  {
+    "filter": 1,
+    "id": 441,
+    "date": "2024-12-02",
+    "desc": "JOOSIKHWESA WAHALINMOL GYEONGGI",
+    "amount": -126.43,
+    "category": "Food",
+    "lat": 37.22275848,
+    "lng": 127.1060536
+  },
+  {
+    "filter": 1,
+    "id": 442,
+    "date": "2024-12-02",
+    "desc": "NEUTINAMOOMAT GYEONGGI",
+    "amount": -20.58,
+    "category": "Food",
+    "lat": 37.31321403,
+    "lng": 127.078943
+  },
+  {
+    "filter": 1,
+    "id": 443,
+    "date": "2024-12-02",
+    "desc": "SAIGON NOODLE KITCHEN CONSHOHOCKEN PA",
+    "amount": -15.78,
+    "category": "Food",
+    "lat": 40.0741398,
+    "lng": -75.30595221
+  },
+  {
+    "filter": 1,
+    "id": 444,
+    "date": "2024-12-02",
+    "desc": "SPO*ELLIMONCONSHOHOCKEN 610-567-0120 PA",
+    "amount": -16.23,
+    "category": "Food",
+    "lat": 40.0735251,
+    "lng": -75.30525099
+  },
+  {
+    "filter": 1,
+    "id": 445,
+    "date": "2024-12-02",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.98,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 446,
+    "date": "2024-12-02",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -19.19,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 447,
+    "date": "2024-12-02",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -13.22,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 448,
+    "date": "2024-12-04",
+    "desc": "ASIAN CHAO POTTSTOWN PA",
+    "amount": -13.45,
+    "category": "Food",
+    "lat": 40.23663905,
+    "lng": -75.57015419
+  },
+  {
+    "filter": 1,
+    "id": 449,
+    "date": "2024-12-04",
+    "desc": "SAIGON NOODLE KITCHEN CONSHOHOCKEN PA",
+    "amount": -15.78,
+    "category": "Food",
+    "lat": 40.0741398,
+    "lng": -75.30595221
+  },
+  {
+    "filter": 1,
+    "id": 450,
+    "date": "2024-12-04",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -21.43,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 451,
+    "date": "2024-12-04",
+    "desc": "TNF King of Prussia KingofPrussiaPA",
+    "amount": -135,
+    "category": "Shop",
+    "lat": 40.08746961,
+    "lng": -75.39193545
+  },
+  {
+    "filter": 1,
+    "id": 452,
+    "date": "2024-12-05",
+    "desc": "SEOUL 88 CLINIC 7013584SUWON-SI PALD",
+    "amount": -103.22,
+    "category": "Health",
+    "lat": 37.51722,
+    "lng": 127.089333
+  },
+  {
+    "filter": 1,
+    "id": 453,
+    "date": "2024-12-05",
+    "desc": "REI #37 CONSHOHOCKEN CONSHOHOCKEN PA",
+    "amount": -132.93,
+    "category": "Shop",
+    "lat": 40.09674976,
+    "lng": -75.28756411
+  },
+  {
+    "filter": 1,
+    "id": 454,
+    "date": "2024-12-07",
+    "desc": "HYEONJANGBALGUEON-s Sungnam (Seou",
+    "amount": -12.09,
+    "category": "Food",
+    "lat": 37.300773,
+    "lng": 127.077155
+  },
+  {
+    "filter": 1,
+    "id": 455,
+    "date": "2024-12-09",
+    "desc": "BAELRASGADEUN SEOUL",
+    "amount": -82.79,
+    "category": "Food",
+    "lat": 37.521294,
+    "lng": 127.088898
+  },
+  {
+    "filter": 1,
+    "id": 456,
+    "date": "2024-12-09",
+    "desc": "MIKUM 2689324SEONGNAM-SI B",
+    "amount": -20.92,
+    "category": "Food",
+    "lat": 37.38388699,
+    "lng": 127.1518522
+  },
+  {
+    "filter": 1,
+    "id": 457,
+    "date": "2024-12-09",
+    "desc": "SUJI GAS STATION 5191798YONGIN-SI SUJ",
+    "amount": -67.7,
+    "category": "Gas",
+    "lat": 37.3335393,
+    "lng": 127.1044
+  },
+  {
+    "filter": 1,
+    "id": 458,
+    "date": "2024-12-09",
+    "desc": "TRADER JOE S #240 LOS ANGELES CA",
+    "amount": -20.03,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 459,
+    "date": "2024-12-09",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -10.44,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 460,
+    "date": "2024-12-09",
+    "desc": "SKINDIBEUWON GYEONGGI",
+    "amount": -137.76,
+    "category": "Health",
+    "lat": 37.31581826,
+    "lng": 127.0773035
+  },
+  {
+    "filter": 1,
+    "id": 461,
+    "date": "2024-12-09",
+    "desc": "SKINDIBEUWON GYEONGGI",
+    "amount": -91.84,
+    "category": "Health",
+    "lat": 37.31581826,
+    "lng": 127.0773035
+  },
+  {
+    "filter": 1,
+    "id": 462,
+    "date": "2024-12-10",
+    "desc": "DDULEJUILEU BOONDANGSEOULSungnam (Seou",
+    "amount": -7.15,
+    "category": "Food",
+    "lat": 37.3809033,
+    "lng": 127.1066943
+  },
+  {
+    "filter": 1,
+    "id": 463,
+    "date": "2024-12-10",
+    "desc": "KOREA HEMING WAY BAKERY CSEONGNAM-SI B",
+    "amount": -12.45,
+    "category": "Food",
+    "lat": 37.23058593,
+    "lng": 127.2916215
+  },
+  {
+    "filter": 1,
+    "id": 464,
+    "date": "2024-12-10",
+    "desc": "COSTCOKOREA KYUNG GI",
+    "amount": -127.76,
+    "category": "Grocery",
+    "lat": 37.25780681,
+    "lng": 127.1141996
+  },
+  {
+    "filter": 1,
+    "id": 465,
+    "date": "2024-12-10",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -10.5,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 466,
+    "date": "2024-12-11",
+    "desc": "FOOD 3524945YONGIN-SI SUJ",
+    "amount": -25.47,
+    "category": "Food",
+    "lat": 37.299836,
+    "lng": 127.087138
+  },
+  {
+    "filter": 1,
+    "id": 467,
+    "date": "2024-12-11",
+    "desc": "SAMSUNGWELSTOLI(JOO)BO GYEONGGI",
+    "amount": -12.29,
+    "category": "Food",
+    "lat": 37.298286,
+    "lng": 127.081821
+  },
+  {
+    "filter": 1,
+    "id": 468,
+    "date": "2024-12-12",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -14.48,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 469,
+    "date": "2024-12-12",
+    "desc": "TRADER JOE S #240 LOS ANGELES CA",
+    "amount": -7.92,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 470,
+    "date": "2024-12-13",
+    "desc": "LOTTESYOPING(JOO)LOTTEMOLSEOUL",
+    "amount": -9.83,
+    "category": "Food",
+    "lat": 37.51176723,
+    "lng": 127.0963317
+  },
+  {
+    "filter": 1,
+    "id": 471,
+    "date": "2024-12-13",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -9.98,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 472,
+    "date": "2024-12-14",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -20.39,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 473,
+    "date": "2024-12-16",
+    "desc": "(JOO) SINHOAPOODEU Incheon",
+    "amount": -112.35,
+    "category": "Food",
+    "lat": 37.50265935,
+    "lng": 127.1081625
+  },
+  {
+    "filter": 1,
+    "id": 474,
+    "date": "2024-12-16",
+    "desc": "FOOD 0154258YONGIN-SI SUJ",
+    "amount": -12.26,
+    "category": "Food",
+    "lat": 37.294459,
+    "lng": 127.09587
+  },
+  {
+    "filter": 1,
+    "id": 475,
+    "date": "2024-12-16",
+    "desc": "IN-N-OUTHUNTINGTONPARK HUNTINGTON PACA",
+    "amount": -4.52,
+    "category": "Food",
+    "lat": 33.7109232,
+    "lng": -117.9849055
+  },
+  {
+    "filter": 1,
+    "id": 476,
+    "date": "2024-12-16",
+    "desc": "JAII 3367251YONGIN-SI SUJ",
+    "amount": -18.92,
+    "category": "Food",
+    "lat": 37.302617,
+    "lng": 127.08583
+  },
+  {
+    "filter": 1,
+    "id": 477,
+    "date": "2024-12-16",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -21.2,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 478,
+    "date": "2024-12-16",
+    "desc": "PHOTOMATIC 194-93432090 CA",
+    "amount": -5,
+    "category": "Shop",
+    "lat": 34.06772923,
+    "lng": -118.3579884
+  },
+  {
+    "filter": 1,
+    "id": 479,
+    "date": "2024-12-16",
+    "desc": "T-MONEY TAXI(CORP) SEOUL",
+    "amount": -55.29,
+    "category": "Shop",
+    "lat": 37.51591529,
+    "lng": 127.1055338
+  },
+  {
+    "filter": 1,
+    "id": 480,
+    "date": "2024-12-17",
+    "desc": "BUNDANGSEOULNATIONAL KYUNG GI",
+    "amount": -251.8,
+    "category": "Health",
+    "lat": 37.3522634,
+    "lng": 127.1232416
+  },
+  {
+    "filter": 1,
+    "id": 481,
+    "date": "2024-12-18",
+    "desc": "KIMBAB COUNTRY 3490176YONGIN-SI GIH",
+    "amount": -17.5,
+    "category": "Food",
+    "lat": 37.33821819,
+    "lng": 127.1236358
+  },
+  {
+    "filter": 1,
+    "id": 482,
+    "date": "2024-12-18",
+    "desc": "HYEONDAIOILBAINGKEU(JOO)JSuwon",
+    "amount": -63.32,
+    "category": "Gas",
+    "lat": 37.510383,
+    "lng": 127.098007
+  },
+  {
+    "filter": 1,
+    "id": 483,
+    "date": "2024-12-18",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -10.21,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 484,
+    "date": "2024-12-19",
+    "desc": "COCOJEAN Yongin",
+    "amount": -18.07,
+    "category": "Food",
+    "lat": 37.31217535,
+    "lng": 127.0880138
+  },
+  {
+    "filter": 1,
+    "id": 485,
+    "date": "2024-12-19",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -10.99,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 486,
+    "date": "2024-12-19",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -16.93,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 487,
+    "date": "2024-12-19",
+    "desc": "IDONGEUIJEULGEOUM_TAEKSI_Seoul",
+    "amount": -8.05,
+    "category": "Shop",
+    "lat": 37.52189824,
+    "lng": 127.0566563
+  },
+  {
+    "filter": 1,
+    "id": 488,
+    "date": "2024-12-19",
+    "desc": "SHINSEGAE DUTY FREE SHOP INCHEON",
+    "amount": -25.21,
+    "category": "shop",
+    "lat": 37.45888737,
+    "lng": 126.4419143
+  },
+  {
+    "filter": 1,
+    "id": 489,
+    "date": "2024-12-20",
+    "desc": "IN-N-OUT WESTWOOD LOS ANGELES CA",
+    "amount": -4.11,
+    "category": "Food",
+    "lat": 34.06326608,
+    "lng": -118.4479616
+  },
+  {
+    "filter": 1,
+    "id": 490,
+    "date": "2024-12-20",
+    "desc": "CJ OLIVE YOUNG SEOKCHON SSEOUL",
+    "amount": -13.66,
+    "category": "Shop",
+    "lat": 37.301822,
+    "lng": 127.088371
+  },
+  {
+    "filter": 1,
+    "id": 491,
+    "date": "2024-12-23",
+    "desc": "TST* URBN - TERRAIN CAFE GLEN MILLS PA",
+    "amount": -77.84,
+    "category": "Food",
+    "lat": 39.88419498,
+    "lng": -75.5312429
+  },
+  {
+    "filter": 1,
+    "id": 492,
+    "date": "2024-12-23",
+    "desc": "THE HOME DEPOT #4106 CONSHOHOCKEN PA",
+    "amount": -6.3,
+    "category": "Shop",
+    "lat": 40.09745252,
+    "lng": -75.30366788
+  },
+  {
+    "filter": 1,
+    "id": 493,
+    "date": "2024-12-24",
+    "desc": "SAIGON NOODLE KITCHEN CONSHOHOCKEN PA",
+    "amount": -7.16,
+    "category": "Food",
+    "lat": 40.0741398,
+    "lng": -75.30595221
+  },
+  {
+    "filter": 1,
+    "id": 494,
+    "date": "2024-12-26",
+    "desc": "LOTTESYOPING(JOO)LOTTEMOLSEOUL",
+    "amount": -57.43,
+    "category": "Food",
+    "lat": 37.51176723,
+    "lng": 127.0963317
+  },
+  {
+    "filter": 1,
+    "id": 495,
+    "date": "2024-12-26",
+    "desc": "SAFFRON INDIAN KITCHEN BALA CYNWYD PA",
+    "amount": -42.04,
+    "category": "Food",
+    "lat": 40.00566912,
+    "lng": -75.24045932
+  },
+  {
+    "filter": 1,
+    "id": 496,
+    "date": "2024-12-27",
+    "desc": "YUKSOODANG YONGINHEUNG GYEONGGI",
+    "amount": -15.87,
+    "category": "Food",
+    "lat": 37.288231,
+    "lng": 127.08842
+  },
+  {
+    "filter": 1,
+    "id": 497,
+    "date": "2024-12-28",
+    "desc": "THE HOME DEPOT #4106 CONSHOHOCKEN PA",
+    "amount": -6.33,
+    "category": "Shop",
+    "lat": 40.09745252,
+    "lng": -75.30366788
+  },
+  {
+    "filter": 1,
+    "id": 498,
+    "date": "2024-12-30",
+    "desc": "KIMBAB COUNTRY 3490176YONGIN-SI GIH",
+    "amount": -11,
+    "category": "Food",
+    "lat": 37.33821819,
+    "lng": 127.1236358
+  },
+  {
+    "filter": 1,
+    "id": 499,
+    "date": "2024-12-30",
+    "desc": "GABOJUNG1GUAN GYEONGGI",
+    "amount": -141.95,
+    "category": "Health",
+    "lat": 37.521658,
+    "lng": 127.102786
+  },
+  {
+    "filter": 1,
+    "id": 500,
+    "date": "2024-12-30",
+    "desc": "YONSEI CHAON ORTHOPEDICS YONGIN-SI SUJ",
+    "amount": -102.53,
+    "category": "Health",
+    "lat": 37.521511,
+    "lng": 127.09379
+  },
+  {
+    "filter": 1,
+    "id": 501,
+    "date": "2024-12-31",
+    "desc": "SAIGON NOODLE KITCHEN CONSHOHOCKEN PA",
+    "amount": -22.94,
+    "category": "Food",
+    "lat": 40.0741398,
+    "lng": -75.30595221
+  },
+  {
+    "filter": 1,
+    "id": 502,
+    "date": "2025-04-14",
+    "desc": "H MART PHILADELPHIA LLC PHILADELPHIA PA",
+    "amount": -247.62,
+    "category": "Grocery",
+    "lat": 40.04521283,
+    "lng": -75.11742858
+  },
+  {
+    "filter": 1,
+    "id": 503,
+    "date": "2025-04-15",
+    "desc": "EXXON EVB SERVICE CENT CONSHOHOCKEN PA",
+    "amount": -41.38,
+    "category": "Gas",
+    "lat": 40.08825559,
+    "lng": -75.29309888
+  },
+  {
+    "filter": 1,
+    "id": 504,
+    "date": "2025-04-16",
+    "desc": "67244 CONSHOHOCKEN FUELS CONSHOHOCKEN PA",
+    "amount": -31.85,
+    "category": "Gas",
+    "lat": 40.08049681,
+    "lng": -75.30005055
+  },
+  {
+    "filter": 1,
+    "id": 505,
+    "date": "2025-04-17",
+    "desc": "TRADER JOE S #585 KING OF PRUSSPA",
+    "amount": -129.82,
+    "category": "Grocery",
+    "lat": 40.09455484,
+    "lng": -75.36762372
+  },
+  {
+    "filter": 1,
+    "id": 506,
+    "date": "2025-04-21",
+    "desc": "MADANG ENGLEWOOD CLINJ",
+    "amount": -18.06,
+    "category": "Food",
+    "lat": 40.86621409,
+    "lng": -73.96071219
+  },
+  {
+    "filter": 1,
+    "id": 507,
+    "date": "2025-04-21",
+    "desc": "TST*FOUNDING FARMERS - K King of PrussPA",
+    "amount": -90.01,
+    "category": "Food",
+    "lat": 40.08346736,
+    "lng": -75.40570529
+  },
+  {
+    "filter": 1,
+    "id": 508,
+    "date": "2025-04-21",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -14.97,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 509,
+    "date": "2025-04-21",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -8.92,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 510,
+    "date": "2025-04-22",
+    "desc": "88 KITCHEN KOP, INC KING OF PRUSSPA",
+    "amount": -12.29,
+    "category": "Food",
+    "lat": 37.508336,
+    "lng": 127.089785
+  },
+  {
+    "filter": 1,
+    "id": 511,
+    "date": "2025-04-22",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -21.04,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 512,
+    "date": "2025-04-23",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -14.38,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 513,
+    "date": "2025-04-25",
+    "desc": "EXXON EVB SERVICE CENT CONSHOHOCKEN PA",
+    "amount": -47.22,
+    "category": "Gas",
+    "lat": 40.08825559,
+    "lng": -75.29309888
+  },
+  {
+    "filter": 1,
+    "id": 514,
+    "date": "2025-04-26",
+    "desc": "SQ *MEGUMI King of PrussPA",
+    "amount": -11.23,
+    "category": "Food",
+    "lat": 39.9556649,
+    "lng": -75.15490544
+  },
+  {
+    "filter": 1,
+    "id": 515,
+    "date": "2025-04-26",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -11.94,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 516,
+    "date": "2025-04-26",
+    "desc": "WEGMANS KING #48 KING OF PRUSSPA",
+    "amount": -27.55,
+    "category": "Grocery",
+    "lat": 40.08371239,
+    "lng": -75.40194861
+  },
+  {
+    "filter": 1,
+    "id": 517,
+    "date": "2025-04-28",
+    "desc": "DUBU RESTAURANT ELKINS PARK PA",
+    "amount": -113.55,
+    "category": "Food",
+    "lat": 40.06325391,
+    "lng": -75.13767696
+  },
+  {
+    "filter": 1,
+    "id": 518,
+    "date": "2025-04-28",
+    "desc": "PANERA BREAD #203953 P CONSHOHOCKEN PA",
+    "amount": -3.99,
+    "category": "Food",
+    "lat": 40.09340448,
+    "lng": -75.28433572
+  },
+  {
+    "filter": 1,
+    "id": 519,
+    "date": "2025-04-28",
+    "desc": "GIANT 6481 CONSHOHOCKEN PA",
+    "amount": -21.95,
+    "category": "Grocery",
+    "lat": 40.09475537,
+    "lng": -75.28574106
+  },
+  {
+    "filter": 1,
+    "id": 520,
+    "date": "2025-04-28",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -10.26,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 521,
+    "date": "2025-04-28",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -4.99,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 1,
+    "id": 522,
+    "date": "2025-04-29",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.98,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 1,
+    "id": 523,
+    "date": "2025-04-29",
+    "desc": "WEGMANS KING #48 KING OF PRUSSPA",
+    "amount": -39.46,
+    "category": "Grocery",
+    "lat": 40.08371239,
+    "lng": -75.40194861
+  },
+  {
+    "filter": 1,
+    "id": 524,
+    "date": "2025-04-30",
+    "desc": "67244 CONSHOHOCKEN FUELS CONSHOHOCKEN PA",
+    "amount": -32.79,
+    "category": "Gas",
+    "lat": 40.08049681,
+    "lng": -75.30005055
+  },
+  {
+    "filter": 1,
+    "id": 525,
+    "date": "2025-04-30",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -13.58,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 0.1,
+    "id": 526,
+    "date": "2025-05-02",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -28.92,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 0.1,
+    "id": 527,
+    "date": "2025-05-05",
+    "desc": "PANERA BREAD #203953 P CONSHOHOCKEN PA",
+    "amount": -3.99,
+    "category": "Food",
+    "lat": 40.09340448,
+    "lng": -75.28433572
+  },
+  {
+    "filter": 0.1,
+    "id": 528,
+    "date": "2025-05-05",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -10.99,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 0.1,
+    "id": 529,
+    "date": "2025-05-05",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -15.94,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 0.1,
+    "id": 530,
+    "date": "2025-05-06",
+    "desc": "SQ *DULCE USC VILLAGE Los Angeles CA",
+    "amount": -14.75,
+    "category": "Food",
+    "lat": 34.02575685,
+    "lng": -118.2852154
+  },
+  {
+    "filter": 0.1,
+    "id": 531,
+    "date": "2025-05-07",
+    "desc": "TST* DISTRICT TACO - KINGKING OF PRUSSPA",
+    "amount": -11.86,
+    "category": "Food",
+    "lat": 40.0841678,
+    "lng": -75.40377509
+  },
+  {
+    "filter": 0.1,
+    "id": 532,
+    "date": "2025-05-08",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -9.98,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 0.1,
+    "id": 533,
+    "date": "2025-05-09",
+    "desc": "DUBU RESTAURANT ELKINS PARK PA",
+    "amount": -51.92,
+    "category": "Food",
+    "lat": 40.06325391,
+    "lng": -75.13767696
+  },
+  {
+    "filter": 0.1,
+    "id": 534,
+    "date": "2025-05-09",
+    "desc": "SUNOCO 8002544201 ELKINS PARK PA",
+    "amount": -33.81,
+    "category": "Gas",
+    "lat": 40.07642147,
+    "lng": -75.12829832
+  },
+  {
+    "filter": 0.1,
+    "id": 535,
+    "date": "2025-05-09",
+    "desc": "CVS/PHARMACY #03252 CONSHOHOCKEN PA",
+    "amount": -8.79,
+    "category": "Grocery",
+    "lat": 40.07862236,
+    "lng": -75.30157345
+  },
+  {
+    "filter": 0.1,
+    "id": 536,
+    "date": "2025-05-09",
+    "desc": "GA YEON ELKINS PARK PA",
+    "amount": -15,
+    "category": "Grocery",
+    "lat": 40.06317905,
+    "lng": -75.13685908
+  },
+  {
+    "filter": 0.1,
+    "id": 537,
+    "date": "2025-05-09",
+    "desc": "H MART ELKINS PARK PA ELKINS PARK PA",
+    "amount": -44.33,
+    "category": "Grocery",
+    "lat": 40.06317905,
+    "lng": -75.13685908
+  },
+  {
+    "filter": 0.1,
+    "id": 538,
+    "date": "2025-05-09",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -11.26,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 0.1,
+    "id": 539,
+    "date": "2025-05-10",
+    "desc": "GIANT 6481 CONSHOHOCKEN PA",
+    "amount": -31.84,
+    "category": "Grocery",
+    "lat": 40.09475537,
+    "lng": -75.28574106
+  },
+  {
+    "filter": 0.1,
+    "id": 540,
+    "date": "2025-05-10",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -20.08,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 0.1,
+    "id": 541,
+    "date": "2025-05-12",
+    "desc": "PY *NUDYS CAFE - CONSHOHOCONSHOHOCKEN PA",
+    "amount": -40.94,
+    "category": "Food",
+    "lat": 40.07439012,
+    "lng": -75.30640294
+  },
+  {
+    "filter": 0.1,
+    "id": 542,
+    "date": "2025-05-12",
+    "desc": "GELSON'S MARKETS #4 LOS ANGELES CA",
+    "amount": -14.97,
+    "category": "Grocery",
+    "lat": 34.03656064,
+    "lng": -118.4542756
+  },
+  {
+    "filter": 0.1,
+    "id": 543,
+    "date": "2025-05-12",
+    "desc": "THE HOME DEPOT #4106 CONSHOHOCKEN PA",
+    "amount": -14.8,
+    "category": "Shop",
+    "lat": 40.09745252,
+    "lng": -75.30366788
+  },
+  {
+    "filter": 0.1,
+    "id": 544,
+    "date": "2025-05-13",
+    "desc": "THE LOVE PHILADELPHIA PA",
+    "amount": -116.4,
+    "category": "Food",
+    "lat": 39.95137208,
+    "lng": -75.17076554
+  },
+  {
+    "filter": 0.1,
+    "id": 545,
+    "date": "2025-05-13",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -10.99,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 0.1,
+    "id": 546,
+    "date": "2025-05-13",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -15.96,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 0.1,
+    "id": 547,
+    "date": "2025-05-14",
+    "desc": "TARGET 00032177 LOS ANGELES CA",
+    "amount": -4.6,
+    "category": "Grocery",
+    "lat": 34.04927472,
+    "lng": -118.2604866
+  },
+  {
+    "filter": 0.1,
+    "id": 548,
+    "date": "2025-05-15",
+    "desc": "HANNAM CHAIN LOS ANGELES LOS ANGELES CA",
+    "amount": -7.77,
+    "category": "Grocery",
+    "lat": 34.05244098,
+    "lng": -118.2931772
+  },
+  {
+    "filter": 0.1,
+    "id": 549,
+    "date": "2025-05-15",
+    "desc": "RALPHS #0294 LOS ANGELES CA",
+    "amount": -8.39,
+    "category": "Grocery",
+    "lat": 34.03206753,
+    "lng": -118.2907712
+  },
+  {
+    "filter": 0.1,
+    "id": 550,
+    "date": "2025-05-15",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -7.98,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 0.1,
+    "id": 551,
+    "date": "2025-05-16",
+    "desc": "SQ *FOUNTAIN LA Los Angeles CA",
+    "amount": -15.36,
+    "category": "Food",
+    "lat": 34.05313091,
+    "lng": -118.2973162
+  },
+  {
+    "filter": 0.1,
+    "id": 552,
+    "date": "2025-05-16",
+    "desc": "TST* BAEKJEONG - K TOWN LOS ANGELES CA",
+    "amount": -102.51,
+    "category": "Food",
+    "lat": 34.0647879,
+    "lng": -118.3045574
+  },
+  {
+    "filter": 0.1,
+    "id": 553,
+    "date": "2025-05-17",
+    "desc": "HODORI LA LOS ANGELES CA",
+    "amount": -18.04,
+    "category": "Food",
+    "lat": 34.05261462,
+    "lng": -118.2920177
+  },
+  {
+    "filter": 0.1,
+    "id": 554,
+    "date": "2025-05-17",
+    "desc": "RALPHS #0294 LOS ANGELES CA",
+    "amount": -26.33,
+    "category": "Grocery",
+    "lat": 34.03206753,
+    "lng": -118.2907712
+  },
+  {
+    "filter": 0.1,
+    "id": 555,
+    "date": "2025-05-19",
+    "desc": "CHIPOTLE 2177 KING OF PRUSSPA",
+    "amount": -10.82,
+    "category": "Food",
+    "lat": 40.08828328,
+    "lng": -75.39442431
+  },
+  {
+    "filter": 0.1,
+    "id": 556,
+    "date": "2025-05-19",
+    "desc": "POMODORO TRATTORIA LOS ANGELES CA",
+    "amount": -100.36,
+    "category": "Food",
+    "lat": 34.05564956,
+    "lng": -118.4421492
+  },
+  {
+    "filter": 0.1,
+    "id": 557,
+    "date": "2025-05-19",
+    "desc": "TST*BLUE PLATE TACO Santa Monica CA",
+    "amount": -73.22,
+    "category": "Food",
+    "lat": 34.01275091,
+    "lng": -118.4959542
+  },
+  {
+    "filter": 0.1,
+    "id": 558,
+    "date": "2025-05-19",
+    "desc": "EL MONTE SINCLAIR EL MONTE CA",
+    "amount": -37.97,
+    "category": "Gas",
+    "lat": 34.06826446,
+    "lng": -118.0421081
+  },
+  {
+    "filter": 0.1,
+    "id": 559,
+    "date": "2025-05-19",
+    "desc": "HANNAM CHAIN LOS ANGELES LOS ANGELES CA",
+    "amount": -37.42,
+    "category": "Grocery",
+    "lat": 34.05244098,
+    "lng": -118.2931772
+  },
+  {
+    "filter": 0.1,
+    "id": 560,
+    "date": "2025-05-19",
+    "desc": "TOUS LES JOURS - HANNAM LOS ANGELES CA",
+    "amount": -36,
+    "category": "Grocery",
+    "lat": 34.05244098,
+    "lng": -118.2931772
+  },
+  {
+    "filter": 0.1,
+    "id": 561,
+    "date": "2025-05-19",
+    "desc": "MIDWAYCARRENTAL LAX 186-67176802 CA",
+    "amount": -173.67,
+    "category": "Shop",
+    "lat": 33.94617535,
+    "lng": -118.3928428
+  },
+  {
+    "filter": 0.1,
+    "id": 562,
+    "date": "2025-05-20",
+    "desc": "SAIGON NOODLE KITCHEN CONSHOHOCKEN PA",
+    "amount": -39.84,
+    "category": "Food",
+    "lat": 40.0741398,
+    "lng": -75.30595221
+  },
+  {
+    "filter": 0.1,
+    "id": 563,
+    "date": "2025-05-20",
+    "desc": "YOUNG KING CHINESE LOS ANGELES CA",
+    "amount": -22.7,
+    "category": "Food",
+    "lat": 34.05272865,
+    "lng": -118.3031179
+  },
+  {
+    "filter": 0.1,
+    "id": 564,
+    "date": "2025-05-20",
+    "desc": "THRIFTY #42114 LOS ANGELES CA",
+    "amount": -21.16,
+    "category": "Gas",
+    "lat": 34.0353008,
+    "lng": -118.3357319
+  },
+  {
+    "filter": 0.1,
+    "id": 565,
+    "date": "2025-05-20",
+    "desc": "GALLERIA MARKET LOS ANGELES CA",
+    "amount": -0.55,
+    "category": "Grocery",
+    "lat": 34.05251242,
+    "lng": -118.3080778
+  },
+  {
+    "filter": 0.1,
+    "id": 566,
+    "date": "2025-05-20",
+    "desc": "TRADER JOE S #585 KING OF PRUSSPA",
+    "amount": -132.21,
+    "category": "Grocery",
+    "lat": 40.09455484,
+    "lng": -75.36762372
+  },
+  {
+    "filter": 0.1,
+    "id": 567,
+    "date": "2025-05-20",
+    "desc": "URTH CAFFE 005 - DOWNT 213-2298925 CA",
+    "amount": -35.86,
+    "category": "Grocery",
+    "lat": 34.04652328,
+    "lng": -118.2338359
+  },
+  {
+    "filter": 0.1,
+    "id": 568,
+    "date": "2025-05-23",
+    "desc": "TST* KOOMA KOP KING OF PRUSSPA",
+    "amount": -110.68,
+    "category": "Food",
+    "lat": 40.08366308,
+    "lng": -75.40501308
+  },
+  {
+    "filter": 0.1,
+    "id": 569,
+    "date": "2025-05-24",
+    "desc": "CHIPOTLE 2177 KING OF PRUSSPA",
+    "amount": -29.73,
+    "category": "Food",
+    "lat": 40.08828328,
+    "lng": -75.39442431
+  },
+  {
+    "filter": 0.1,
+    "id": 570,
+    "date": "2025-05-26",
+    "desc": "TST*DAN DAN RESTAURANT Ardmore PA",
+    "amount": -70.1,
+    "category": "Food",
+    "lat": 40.00893645,
+    "lng": -75.28906826
+  },
+  {
+    "filter": 0.1,
+    "id": 571,
+    "date": "2025-05-26",
+    "desc": "TRADER JOE S #250 LOS ANGELES CA",
+    "amount": -7.98,
+    "category": "Grocery",
+    "lat": 34.02629215,
+    "lng": -118.2849448
+  },
+  {
+    "filter": 0.1,
+    "id": 572,
+    "date": "2025-05-26",
+    "desc": "ZARA USA 12214 KING OF PRUSSPA",
+    "amount": -13.01,
+    "category": "shop",
+    "lat": 40.08812873,
+    "lng": -75.39219072
+  },
+  {
+    "filter": 0.1,
+    "id": 573,
+    "date": "2025-05-28",
+    "desc": "67244 CONSHOHOCKEN FUELS CONSHOHOCKEN PA",
+    "amount": -33.22,
+    "category": "Gas",
+    "lat": 40.08049681,
+    "lng": -75.30005055
+  },
+  {
+    "filter": 0.1,
+    "id": 574,
+    "date": "2025-05-31",
+    "desc": "CHIPOTLE 1856 KING OF PRUSSPA",
+    "amount": -16.28,
+    "category": "Food",
+    "lat": 40.08828328,
+    "lng": -75.39442431
+  },
+  {
+    "filter": 0,
+    "id": 575,
+    "date": "2025-06-02",
+    "desc": "7-ELEVEN 23682 NJ",
+    "amount": -12.35,
+    "category": "Shop",
+    "lat": 40.43874352322219, 
+    "lng": -74.44291394920226
+  },
+  {
+    "filter": 0,
+    "id": 576,
+    "date": "2025-06-02",
+    "desc": "JONGRO FLUSHING FLUSHING NY",
+    "amount": -102.05,
+    "category": "Food",
+    "lat": 40.76424519,
+    "lng": -73.80962746
+  },
+  {
+    "filter": 0,
+    "id": 577,
+    "date": "2025-06-02",
+    "desc": "H MART NORTHERN NY FLUSHING NY",
+    "amount": -25.4,
+    "category": "Grocery",
+    "lat": 40.76507737,
+    "lng": -73.82084498
+  },
+  {
+    "filter": 0,
+    "id": 578,
+    "date": "2025-06-02",
+    "desc": "TRADER JOE S #585 KING OF PRUSSPA",
+    "amount": -9.98,
+    "category": "Grocery",
+    "lat": 40.09455484,
+    "lng": -75.36762372
+  },
+  {
+    "filter": 0,
+    "id": 579,
+    "date": "2025-06-03",
+    "desc": "SQ *ASIAN BENTO King of PrussPA",
+    "amount": -12.71,
+    "category": "Food",
+    "lat": 40.08793421,
+    "lng": -75.39310779
+  },
+  {
+    "filter": 0,
+    "id": 580,
+    "date": "2025-06-04",
+    "desc": "WINE AND SPIRITS 4624 KING OF PRUSSPA",
+    "amount": -13.24,
+    "category": "Grocery",
+    "lat": 40.09359171,
+    "lng": -75.36378889
+  },
+  {
+    "filter": 0,
+    "id": 581,
+    "date": "2024-06-05",
+    "desc": "EL LIMON CONSHI - 10 CONSHOHOCKEN PA",
+    "amount": -25.78,
+    "category": "Food",
+    "lat": 40.07354973,
+    "lng": -75.30520807
+  },
+  {
+    "filter": 0,
+    "id": 582,
+    "date": "2025-06-07",
+    "desc": "MORE FOOD COURT ELKINS PARK PA",
+    "amount": -15.42,
+    "category": "Food",
+    "lat": 40.06306268,
+    "lng": -75.13688369
+  },
+  {
+    "filter": 0,
+    "id": 583,
+    "date": "2025-06-07",
+    "desc": "PHILA MAAT ZIP ELKINS PARK PA",
+    "amount": -17.98,
+    "category": "Grocery",
+    "lat": 40.06317905,
+    "lng": -75.13685908
+  },
+  {
+    "filter": 0,
+    "id": 584,
+    "date": "2025-06-08",
+    "desc": "TST*FOUNDING FARMERS - K King of PrussPA",
+    "amount": -82.01,
+    "category": "Food",
+    "lat": 40.08346736,
+    "lng": -75.40570529
+  },
+  {
+    "filter": 0,
+    "id": 585,
+    "date": "2025-06-09",
+    "desc": "IKEA CONSHOHOCKEN CONSHOHOCKEN PA",
+    "amount": -36.38,
+    "category": "Shop",
+    "lat": 40.09479977,
+    "lng": -75.30677928
+  },
+  {
+    "filter": 0,
+    "id": 586,
+    "date": "2025-06-11",
+    "desc": "EXXON EVB SERVICE CENT CONSHOHOCKEN PA",
+    "amount": -38.38,
+    "category": "Gas",
+    "lat": 40.08825559,
+    "lng": -75.29309888
+  }
+
+]
