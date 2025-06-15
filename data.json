@@ -305,7 +305,7 @@
     "date": "2025-06-09",
     "desc": "SURAYA RESTAURANT PA",
     "amount": -86.24,
-    "category": "Shop",
+    "category": "Food",
     "lat": 39.97388610025005, 
     "lng": -75.13377818910035
   },
@@ -345,7 +345,7 @@
     "date": "2025-06-14",
     "desc": "HOME DEPOT PA",
     "amount": -20.56,
-    "category": "Food",
+    "category": "Shop",
     "lat": 39.99614067689014, 
     "lng": -75.09021381920472
   },
